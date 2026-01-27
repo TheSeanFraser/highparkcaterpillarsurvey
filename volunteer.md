@@ -1,8 +1,28 @@
 ---
 layout: single
-title: About
-permalink: /about/
+title: Volunteer
+permalink: /volunteer/
 ---
 
-<p>The survey is currently comprised of over a dozen enthusiastic volunteers, ranging widely in age and background. New volunteers are always welcome.</p>
-<p>Richard Aaron, the survey's founder, has been involved with High Park for over two decades, including founding the High Park Moth Study (2016-2020). He has taught over two dozen adult workshops for the High Park Nature Centre (fungi, wildflowers, trees & shrubs, caterpillars), led nature walks for High Park Walking Tours, given presentations to the High Park Stewards, and wrote an interpretive sign about dragonflies for the High Park Natural Environment Committee, which stands next to Grenadier Pond. In addition, Richard has done nature walks, talks, and workshops on a wide variety of topics for over 100 organizations, ranging from naturalist clubs to universities.</p>
+## Join the High Park Caterpillar Survey
+
+### Beginners welcome!
+
+
+- See numerous species up close
+- Learn about caterpillar ecology & natural history
+- Observe other organisms that fluoresce
+- Meet like-minded nature enthusiasts
+- Contribute to citizen science
+- Regular participants receive a High Park caterpillar poster
+
+FAQs
+
+
+
+## You need to be
+- 18 years of age or older
+- available to do evening sessions (see session times below)
+- able to walk up to 4 km per session on paved & unpaved surfaces (most sessions are 1-3 km)​
+
+
