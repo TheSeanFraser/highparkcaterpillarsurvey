@@ -2,6 +2,9 @@
 layout: single
 title: About
 permalink: /about/
+header:
+  image: /assets/images/about-header.jpg
+  caption: "Brown-hooded Owlet - Sean Fraser"
 ---
 
 The survey is currently comprised of over a dozen enthusiastic volunteers, ranging widely in age and background. New volunteers are always welcome.
@@ -13,4 +16,4 @@ Richard Aaron, the survey's founder, has been involved with High Park for over t
 
 Send all inquiries to:
 
-highparkcaterpillarsurvey@gmail.com
+[highparkcaterpillarsurvey@gmail.com](mailto:highparkcaterpillarsurvey@gmail.com)

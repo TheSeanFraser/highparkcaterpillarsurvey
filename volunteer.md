@@ -4,6 +4,7 @@ title: Volunteer
 permalink: /volunteer/
 header:
   image: /assets/images/volunteer-header.jpg
+  caption: "Marbled-green Leuconycta - Sean Fraser"
 ---
 
 ## Join the High Park Caterpillar Survey
@@ -16,7 +17,7 @@ Reasons to join:
 - Observe other organisms that fluoresce
 - Meet like-minded nature enthusiasts
 - Contribute to citizen science
-- Regular participants receive a High Park caterpillar poster
+- Regular participants receive a [High Park caterpillar poster](/poster/)
 
 [Read the FAQs](/faqs/) for more information.
 
