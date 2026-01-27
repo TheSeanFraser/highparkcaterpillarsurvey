@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "FAQ"
     url: /faq/
+  - title: "Volunteer"
+    url: /volunteer/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
