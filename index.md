@@ -16,4 +16,3 @@ For a more in-depth survey history and what makes caterpillars so fascinating, [
 
 
 ## Species seen to date: **255**
-

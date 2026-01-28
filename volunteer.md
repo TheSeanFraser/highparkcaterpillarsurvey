@@ -9,7 +9,7 @@ header:
 
 ## Join the High Park Caterpillar Survey
 
-### Beginners welcome!
+**Beginners are welcome!**
 
 Reasons to join:
 - See numerous species up close
@@ -19,7 +19,7 @@ Reasons to join:
 - Contribute to citizen science
 - Regular participants receive a [High Park caterpillar poster](/poster/)
 
-[Read the FAQs](/faqs/) for more information.
+[Read the FAQs](/faq/) for more information.
 
 
 
