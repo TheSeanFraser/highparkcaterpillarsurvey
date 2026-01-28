@@ -1,0 +1,19 @@
+# /_data/authors.yml
+
+Richard Aaron:
+  name        : "Richard Aaron"
+  bio         : ""
+  avatar      : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cat@caterpillar.com"
+
+Sean Fraser:
+  name        : "Sean Fraser"
+  bio         : ""
+  avatar      : ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cat2@caterpillar.com"

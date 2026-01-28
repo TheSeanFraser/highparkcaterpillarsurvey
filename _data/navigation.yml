@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Methods"
     url: /methods/
+  - title: "Species List"
+    url: /species-list/
   - title: "Gallery"
     url: /gallery/
   - title: "Volunteer"

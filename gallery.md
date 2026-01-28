@@ -9,28 +9,22 @@ header:
 gallery:
   - url: /assets/images/gallery/horned-spanworm.jpg
     image_path: /assets/images/gallery/horned-spanworm.jpg
-    alt: "Horned Spanworm"
-    title: "Horned Spanworm"
+    title: "Horned Spanworm - Sean Fraser"
   - url: /assets/images/gallery/gray-furcula.jpg
     image_path: /assets/images/gallery/gray-furcula.jpg
-    alt: "Gray Furcula"
-    title: "Gray Furcula"
+    title: "Gray Furcula - Sean Fraser"
   - url: /assets/images/gallery/camouflaged-looper.jpg
     image_path: /assets/images/gallery/camouflaged-looper.jpg
-    alt: "Horned Spanworm"
-    title: "Horned Spanworm"
+    title: "Camouflaged Looper - Sean Fraser"
   - url: /assets/images/gallery/deleware-skipper.jpg
     image_path: /assets/images/gallery/deleware-skipper.jpg
-    alt: "Deleware Skipper"
-    title: "Deleware Skipper"
+    title: "Deleware Skipper - Sean Fraser"
   - url: /assets/images/gallery/juniper-geometer.jpg
     image_path: /assets/images/gallery/juniper-geometer.jpg
-    alt: "Juniper Geometer"
-    title: "Juniper Geometer"
+    title: "Juniper Geometer - Sean Fraser"
   - url: /assets/images/gallery/silver-spotted-skipper.jpg
     image_path: /assets/images/gallery/silver-spotted-skipper.jpg
-    alt: "Silver-spotted Skipper"
-    title: "Silver-spotted Skipper"
+    title: "Silver-spotted Skipper - Sean Fraser"
 ---
 
 
