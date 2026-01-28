@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 permalink: /faq/
 header:
   image: /assets/images/faq-header.jpg
-  caption: "Copper Underwing - Sean Fraser"
+  caption: "Abbott's Sphinx - Sean Fraser"
 ---
 
 
