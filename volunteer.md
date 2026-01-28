@@ -21,6 +21,9 @@ Reasons to join:
 
 [Read the FAQs](/faq/) for more information.
 
+## Session Start Times
+As the season proceeds from mid-May through mid-October (depending on weather), the start times of the sessions will follow the current sunset time.
+
 
 
 ## You need to be
