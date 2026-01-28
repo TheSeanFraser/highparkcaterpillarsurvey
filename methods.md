@@ -14,11 +14,11 @@ While a number of techniques exist for finding caterpillars, we have found the f
 
 Our main method is to go out after sunset, ultraviolet (UV) flashlights in hand, in search of caterpillars that fluoresce. Many caterpillar species fluoresce when UV light is shined on them and this fluorescence is much easier to see in the dark.
 
-![](/assets/images/Tobacco Hornworm - regular (2025).jpg)
+![](/assets/images/tobacco-hornworm-flash-2025.jpg)
 
 *Tobacco Hornworm with camera flash.*
 
-![](/assets/images/Tobacco Hornworm - UV (2025).jpg)
+![](/assets/images/tobacco-hornworm-uv-2025.jpg)
 
 *Same Tobacco Hornworm fluorescing under 365nm UV light.*
 

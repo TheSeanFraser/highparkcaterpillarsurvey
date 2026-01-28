@@ -15,5 +15,5 @@ The survey welcomes new volunteers — no experience necessary. [You can find mo
 For a more in-depth survey history and what makes caterpillars so fascinating, [click here](https://highparknaturecentre.com/high-park-caterpillar-survey-citizen-science-when-the-sun-goes-down/).
 
 
-Species seen to date: **255**
+## Species seen to date: **255**
 
