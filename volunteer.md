@@ -28,9 +28,9 @@ Reasons to join:
 ## Session Start Times
 The season runs from May to October
 
-May through July - 9:15 PM
+May to July - 9:15 PM
 
-August through October - start times progressively get earlier as the days get shorter
+August to October - start times progressively get earlier as the days get shorter
 
 
 
