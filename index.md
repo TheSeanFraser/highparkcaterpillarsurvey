@@ -5,6 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/home-banner.jpg
+  caption: "Hickory Tussock Moth"
 excerpt: "Caterpillars are a critical, and often overlooked, part of many ecosystems. Launched in the summer of 2020, the High Park Caterpillar Survey is a multi-year citizen science project (100-percent volunteer) documenting the diversity, abundance, and behaviour of caterpillars in Toronto's High Park."
 ---
 <p style="text-align: center;"><h1>Number of species seen to date: <i>255</i></h1></p>
