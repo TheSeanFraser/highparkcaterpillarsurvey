@@ -35,7 +35,7 @@ The season runs from May to October.
 
 ## You need to be
 - 18 years of age or older
-- available to do evening sessions (see session times below)
+- available to do evening sessions (see session times above)
 - able to walk up to 4 km per session on paved & unpaved surfaces (most sessions are 1-3 km)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRlrvjh7OaEQZYF-BbqbhlDNyNTzQTfZJN87cXFTrx7UeS2Q/viewform?embedded=true" width="100%" height="1400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
