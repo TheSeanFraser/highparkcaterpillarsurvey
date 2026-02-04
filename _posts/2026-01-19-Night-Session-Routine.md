@@ -1,5 +1,4 @@
 ---
-author: Sean Fraser
 header:
   teaser: /assets/images/posts/2026/uv-caterpillars.jpg
 excerpt_separator: <!--more-->
