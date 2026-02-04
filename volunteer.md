@@ -29,7 +29,7 @@ Reasons to join:
 The season runs from May to October. 
 
 - May to July - 9:15 PM - midnight
-- Aug to Oct - start and end times get earlier as the days get shorter
+- Aug to Oct - start and end times get earlier as days get shorter
 
 
 
