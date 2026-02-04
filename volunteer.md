@@ -25,12 +25,12 @@ Reasons to join:
 
 [Check out this post](/Night-Session-Routine/) for a sense of how a night session typically goes.
 
-## Session Start Times
-The season runs from May to October
+## Session Times
+The season runs from May to October. 
 
-May to July - 9:15 PM
+May to July - 9:15 PM - midnight
 
-Aug to Oct - start times progressively get earlier as the days get shorter
+Aug to Oct - start and end times get earlier as the days get shorter
 
 
 
