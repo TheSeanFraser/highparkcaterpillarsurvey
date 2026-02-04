@@ -17,3 +17,6 @@ Richard Aaron, the survey's founder, has been involved with High Park for over t
 Send all inquiries to:
 
 [highparkcaterpillarsurvey@gmail.com](mailto:highparkcaterpillarsurvey@gmail.com)
+
+New:
+[info@highparkcaterpillars.ca](mailto:info@highparkcaterpillars.ca)
