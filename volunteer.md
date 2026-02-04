@@ -26,7 +26,9 @@ Reasons to join:
 [Check out this post](/Night-Session-Routine/) for a sense of how a night session typically goes.
 
 ## Session Start Times
-As the season proceeds from mid-May through mid-October (start and end dates dependant on weather), the initial session start time is 9:15 PM - gradually becoming earlier starting in mid-summer as the sun starts to set earlier.
+The season runs from May to October
+May through July - 9:15 PM
+August through October - start times progressively get earlier as the days get shorter
 
 
 
