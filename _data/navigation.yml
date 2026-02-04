@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Methods"
     url: /methods/
-  - title: "Projects"
-    url: /projects/
   - title: "Gallery"
     url: /gallery/
   - title: "Volunteer"
