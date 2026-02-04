@@ -30,7 +30,7 @@ The season runs from May to October
 
 May to July - 9:15 PM
 
-August to October - start times progressively get earlier as the days get shorter
+Aug to Oct - start times progressively get earlier as the days get shorter
 
 
 
