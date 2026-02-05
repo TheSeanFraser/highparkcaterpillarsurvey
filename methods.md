@@ -4,7 +4,7 @@ title: Survey Methods
 permalink: /methods/
 header:
   image: /assets/images/methods-header.jpg
-  caption: "Western Furcula - Sean Fraser"
+  caption: "Western Furcula"
 ---
 
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 header:
   image: /assets/images/about-header.jpg
-  caption: "Brown-hooded Owlet - Sean Fraser"
+  caption: "Brown-hooded Owlet"
 ---
 
 The survey is currently comprised of over a dozen enthusiastic volunteers, ranging widely in age and background. New volunteers are always welcome.

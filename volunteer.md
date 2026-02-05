@@ -4,7 +4,7 @@ title: Volunteer
 permalink: /volunteer/
 header:
   image: /assets/images/volunteer-header.jpg
-  caption: "Marbled-green Leuconycta - Sean Fraser"
+  caption: "Marbled-green Leuconycta"
 ---
 
 ## Join the High Park Caterpillar Survey

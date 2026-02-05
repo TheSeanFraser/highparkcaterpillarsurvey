@@ -4,7 +4,7 @@ layout: single
 permalink: /gallery/
 header:
   image: /assets/images/gallery-header.jpg
-  caption: "Pandorus Sphinx - Sean Fraser"
+  caption: "Pandorus Sphinx"
 
 gallery:
   - url: /assets/images/gallery/horned-spanworm.jpg
