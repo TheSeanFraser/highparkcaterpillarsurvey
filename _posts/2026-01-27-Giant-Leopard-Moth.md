@@ -1,5 +1,4 @@
 ---
-author: Sean Fraser
 header:
   teaser: /assets/images/posts/2026/giant-leopard-moth.jpg
 excerpt_separator: <!--more-->

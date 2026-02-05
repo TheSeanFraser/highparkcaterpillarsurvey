@@ -3,10 +3,11 @@ title: "High Park Caterpillar Survey"
 layout: home
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.35"
   overlay_image: /assets/images/home-banner.jpg
-  caption: "Hickory Tussock Moth"
+  caption: "Horned Spanworm"
 excerpt: "Caterpillars are a critical, and often overlooked, part of many ecosystems. Launched in the summer of 2020, the High Park Caterpillar Survey is a multi-year citizen science project (100-percent volunteer) documenting the diversity, abundance, and behaviour of caterpillars in Toronto's High Park."
+permalink: /
 ---
 <p style="text-align: center;"><h1>Number of species seen to date: <i>255</i></h1></p>
 
@@ -18,7 +19,5 @@ For a more in-depth survey history and what makes caterpillars so fascinating, [
 
 
 ![Fringed Looper](/assets/images/fringed-looper.jpg)
-<small>*Fringed Looper - Sean Fraser*</small>
+<small>*Fringed Looper*</small>
 
-## iNaturalist Projects
-Here is a placeholder for the future iNaturalist Projects

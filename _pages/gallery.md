@@ -27,5 +27,6 @@ gallery:
     title: "Silver-spotted Skipper - Sean Fraser"
 ---
 
+Here are some selected photos of the survey's finds. Select the photo to see the species' names.
 
 {% include gallery caption="" %}
