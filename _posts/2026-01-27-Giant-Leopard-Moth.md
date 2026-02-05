@@ -4,7 +4,7 @@ header:
 excerpt_separator: <!--more-->
 ---
 
-![Giant Leopard Moth](https://numbirds.ca/highparkcaterpillarsurvey/assets/images/posts/2026/giant-leopard-moth.jpg)
+![Giant Leopard Moth](/assets/images/posts/2026/giant-leopard-moth.jpg)
 
 During a "Supersession" on October 3, 2025, one of the two teams came up with quite a find. 
 <!--more-->

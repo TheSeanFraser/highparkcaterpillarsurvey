@@ -3,7 +3,7 @@ header:
   teaser: /assets/images/posts/2026/uv-caterpillars.jpg
 excerpt_separator: <!--more-->
 ---
-![Caterpillars Flourescing](https://numbirds.ca/highparkcaterpillarsurvey/assets/images/posts/2026/uv-caterpillars.jpg)
+![Caterpillars Flourescing](/assets/images/posts/2026/uv-caterpillars.jpg)
 <small>Oregon Cycnia caterpillars fluorescing on a dogbane plant.</small>
 
 A typical night session for the High Park Caterpillar Survey looks something like this: <!--more-->
