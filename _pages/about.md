@@ -28,6 +28,4 @@ Starting in 2025, a few other aspects of the insect larvae world began to be app
 
 ## How to Reach Us
 
-Send all inquiries to:
-
-[info@highparkcaterpillars.ca](mailto:info@highparkcaterpillars.ca)
+Send all inquiries to: [info@highparkcaterpillars.ca](mailto:info@highparkcaterpillars.ca)
