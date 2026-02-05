@@ -16,12 +16,12 @@ Our main method is to go out after sunset, ultraviolet (UV) flashlights in hand,
 
 ![](/assets/images/tobacco-hornworm-flash-2025.jpg)
 
-Tobacco Hornworm with camera flash.
+Tobacco Hornworm with camera flash. <small>*Photo by Sourav Ghosh.*</small>
 
 
 ![](/assets/images/tobacco-hornworm-uv-2025.jpg)
 
-Same Tobacco Hornworm fluorescing under 365nm UV light.
+Tobacco Hornworm fluorescing under UV light. <small>*Photo by Sourav Ghosh.*</small>
 
 
 
