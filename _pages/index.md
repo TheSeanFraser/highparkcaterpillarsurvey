@@ -2,8 +2,8 @@
 title: "High Park Caterpillar Survey"
 layout: home
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.35"
+  overlay_color: "#FFF000"
+  overlay_filter: "0.55"
   overlay_image: /assets/images/home-banner.jpg
   caption: "Horned Spanworm"
 excerpt: "Caterpillars are a critical, and often overlooked, part of many ecosystems. Launched in the summer of 2020, the High Park Caterpillar Survey is a multi-year citizen science project (100% volunteer) documenting the diversity, abundance, and behaviour of caterpillars in Toronto's High Park."
