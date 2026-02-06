@@ -10,6 +10,8 @@ main:
     url: /volunteer/
   - title: "FAQ"
     url: /faq/
+  - title: "Posts"
+    url: /posts/
 
 
   # - title: "Sample Posts"
