@@ -2,6 +2,7 @@
 header:
   teaser: /assets/images/posts/2026/goldenrod-casebearer.jpg
 excerpt_separator: <!--more-->
+tags: leafminer
 ---
 
 ![Goldenrod Casebearers](/assets/images/posts/2026/goldenrod-casebearer.jpg)
