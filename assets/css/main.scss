@@ -7,3 +7,12 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__content h1 .anchor,
+.page__content h2 .anchor,
+.page__content h3 .anchor,
+.page__content h4 .anchor,
+.page__content h5 .anchor,
+.page__content h6 .anchor {
+  display: none;
+}
