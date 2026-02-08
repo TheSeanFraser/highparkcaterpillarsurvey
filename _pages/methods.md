@@ -37,6 +37,8 @@ On occasion, we do daytime sessions to search for caterpillars that feed on or w
 
 Leafmine of *Coptodisca splendoriferella* (no common name). The hole on the bottom left is created by the larva, which sews the two surfaces of the cut-out section together with silk before dropping into the leaf litter to pupate.
 
+<br/>
+
 ![](/assets/images/leafmine-2.jpg)
 
 Leafmine of *Coptodisca splendoriferella* with backlighting. Here you can see the structure of the "mine" created by the larva, as well as its frass.
@@ -45,6 +47,8 @@ Leafmine of *Coptodisca splendoriferella* with backlighting. Here you can see th
 ![](/assets/images/leaftier-1.jpg)
 
 Leaf construction of Oak Leaftier Moth. The leaves are tied together with silk, to shelter the larvae while they feed from the inside of the construction. The brown sections of the leaves are where the caterpillar has eaten the inner layer of the leaf tissue.
+
+<br/>
 
 ![](/assets/images/leaftier-2.jpg)
 

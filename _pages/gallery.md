@@ -18,7 +18,7 @@ gallery:
     title: "Brown-hooded Owlet - Sean Fraser"
   - url: /assets/images/gallery/full-res/camouflaged-looper-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/camouflaged-looper-sean-fraser.jpg
-    title: "Camouflaged Looper - Sean Fraser"
+    title: "Camouflaged Looper / Wavy-lined Emerald - Sean Fraser"
   - url: /assets/images/gallery/full-res/copper-underwing-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/copper-underwing-sean-fraser.jpg
     title: "Copper Underwing - Sean Fraser"
@@ -30,10 +30,10 @@ gallery:
     title: "Dusky-backed Filatima Moth - Sean Fraser"
   - url: /assets/images/gallery/full-res/framinghamia-helvalis-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/framinghamia-helvalis-sean-fraser.jpg
-    title: "*Framinghamia helvalis* - Sean Fraser"
+    title: "Framinghamia helvalis (no common name) - Sean Fraser"
   - url: /assets/images/gallery/full-res/genus-pyreferra-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/genus-pyreferra-sean-fraser.jpg
-    title: "Genus Pyreferra - Sean Fraser"
+    title: "Genus Pyreferra (not possible to identify these caterpillars to species) - Sean Fraser"
   - url: /assets/images/gallery/full-res/giant-leopard-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/giant-leopard-moth-sean-fraser.jpg
     title: "Giant Leopard Moth - Sean Fraser"
@@ -54,7 +54,7 @@ gallery:
     title: "Marbled Green Leuconycta - Sean Fraser"
   - url: /assets/images/gallery/full-res/peppered-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/peppered-moth-sean-fraser.jpg
-    title: "Peppered Moth - Sean Fraser"
+    title: "Cleft-headed Looper / Peppered Moth - Sean Fraser"
   - url: /assets/images/gallery/full-res/primrose-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/primrose-moth-sean-fraser.jpg
     title: "Primrose Moth - Sean Fraser"
