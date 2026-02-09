@@ -16,3 +16,6 @@ search: false
 .page__content h6 .anchor {
   display: none;
 }
+
+/* Highlight active navigation link in masthead */
+.masthead__menu-item .active { font-weight: bold; }
