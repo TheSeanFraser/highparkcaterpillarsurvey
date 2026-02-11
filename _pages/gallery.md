@@ -10,11 +10,11 @@ gallery:
 
   - url: /assets/images/gallery/full-res/abbotts-sphinx-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/abbotts-sphinx-sean-fraser.jpg
-    title: "Abbott's Sphinx (middle instar) - Sean Fraser"
+    title: "Abbott's Sphinx (final instar) - Sean Fraser"
 
   - url: /assets/images/gallery/full-res/abbotts-sphinx-penultimate-instar-richard-aaron.jpg
     image_path: /assets/images/gallery/thumbnail/abbotts-sphinx-penultimate-instar-richard-aaron.jpg
-    title: "Abbott's Sphinx (penultimate instar) - Richard Aaron"
+    title: "Abbott's Sphinx (middle instar) - Richard Aaron"
 
   - url: /assets/images/gallery/full-res/the-asteroid-richard-aaron.jpg
     image_path: /assets/images/gallery/thumbnail/the-asteroid-richard-aaron.jpg
@@ -72,17 +72,13 @@ gallery:
     image_path: /assets/images/gallery/thumbnail/eastern-tailed-blue-richard-aaron.jpg
     title: "Eastern Tailed-blue - Richard Aaron"
 
-  - url: /assets/images/gallery/full-res/european-honeysuckle-moth-richard-aaron.jpg
-    image_path: /assets/images/gallery/thumbnail/european-honeysuckle-moth-richard-aaron.jpg
-    title: "European Honeysuckle Moth - Richard Aaron"
-
   - url: /assets/images/gallery/full-res/framinghamia-helvalis-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/framinghamia-helvalis-sean-fraser.jpg
     title: "Framinghamia helvalis (no common name) - Sean Fraser"
 
-  - url: /assets/images/gallery/full-res/genus-pyreferra-sean-fraser.jpg
-    image_path: /assets/images/gallery/thumbnail/genus-pyreferra-sean-fraser.jpg
-    title: "Genus Pyreferra (not possible to identify these caterpillars to species) - Sean Fraser"
+  - url: /assets/images/gallery/full-res/pale-beauty-richard-aaron.jpg
+    image_path: /assets/images/gallery/thumbnail/pale-beauty-richard-aaron.jpg
+    title: "Fringed Looper / Pale Beauty - Richard Aaron"
 
   - url: /assets/images/gallery/full-res/giant-leopard-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/giant-leopard-moth-sean-fraser.jpg
@@ -99,6 +95,10 @@ gallery:
   - url: /assets/images/gallery/full-res/hickory-tussock-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/hickory-tussock-moth-sean-fraser.jpg
     title: "Hickory Tussock Moth - Sean Fraser"
+
+  - url: /assets/images/gallery/full-res/european-honeysuckle-moth-richard-aaron.jpg
+    image_path: /assets/images/gallery/thumbnail/european-honeysuckle-moth-richard-aaron.jpg
+    title: "Honeysuckle Moth - Richard Aaron"
 
   - url: /assets/images/gallery/full-res/horned-spanworm-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/horned-spanworm-sean-fraser.jpg
@@ -128,10 +128,6 @@ gallery:
     image_path: /assets/images/gallery/thumbnail/orange-tufted-oneida-moth-richard-aaron.jpg
     title: "Orange-tufted Oneida Moth - Richard Aaron"
 
-  - url: /assets/images/gallery/full-res/pale-beauty-richard-aaron.jpg
-    image_path: /assets/images/gallery/thumbnail/pale-beauty-richard-aaron.jpg
-    title: "Pale Beauty - Richard Aaron"
-
   - url: /assets/images/gallery/full-res/primrose-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/primrose-moth-sean-fraser.jpg
     title: "Primrose Moth - Sean Fraser"
@@ -139,6 +135,10 @@ gallery:
   - url: /assets/images/gallery/full-res/purple-carrot-seed-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/purple-carrot-seed-moth-sean-fraser.jpg
     title: "Purple Carrot-seed Moth - Sean Fraser"
+
+  - url: /assets/images/gallery/full-res/genus-pyreferra-sean-fraser.jpg
+    image_path: /assets/images/gallery/thumbnail/genus-pyreferra-sean-fraser.jpg
+    title: "Genus Pyreferra (not possible to identify these caterpillars to species) - Sean Fraser"
 
   - url: /assets/images/gallery/full-res/saunders-sallow-pink-form-richard-aaron.jpg
     image_path: /assets/images/gallery/thumbnail/saunders-sallow-pink-form-richard-aaron.jpg
