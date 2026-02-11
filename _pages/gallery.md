@@ -110,7 +110,7 @@ gallery:
 
   - url: /assets/images/gallery/full-res/marbled-green-leuconycta-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/marbled-green-leuconycta-sean-fraser.jpg
-    title: "Marbled Green Leuconycta - Sean Fraser"
+    title: "Marbled-green Leuconycta - Sean Fraser"
 
   - url: /assets/images/gallery/full-res/mourning-cloak-richard-aaron.jpg
     image_path: /assets/images/gallery/thumbnail/mourning-cloak-richard-aaron.jpg
@@ -130,7 +130,7 @@ gallery:
 
   - url: /assets/images/gallery/full-res/purple-carrot-seed-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/purple-carrot-seed-moth-sean-fraser.jpg
-    title: "Purple Carrot Seed Moth - Sean Fraser"
+    title: "Purple Carrot-seed Moth - Sean Fraser"
 
   - url: /assets/images/gallery/full-res/saunders-sallow-pink-form-richard-aaron.jpg
     image_path: /assets/images/gallery/thumbnail/saunders-sallow-pink-form-richard-aaron.jpg
@@ -142,7 +142,7 @@ gallery:
 
   - url: /assets/images/gallery/full-res/silver-spotted-skipper-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/silver-spotted-skipper-sean-fraser.jpg
-    title: "Silver Spotted Skipper - Sean Fraser"
+    title: "Silver-spotted Skipper - Sean Fraser"
 
   - url: /assets/images/gallery/full-res/small-bird-dropping-moth-richard-aaron.jpg
     image_path: /assets/images/gallery/thumbnail/small-bird-dropping-moth-richard-aaron.jpg
@@ -186,7 +186,7 @@ gallery:
 
   - url: /assets/images/gallery/full-res/white-marked-tussock-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/white-marked-tussock-moth-sean-fraser.jpg
-    title: "White Marked Tussock Moth - Sean Fraser"
+    title: "White-marked Tussock Moth - Sean Fraser"
 
   - url: /assets/images/gallery/full-res/white-spotted-sable-richard-aaron.jpg
     image_path: /assets/images/gallery/thumbnail/white-spotted-sable-richard-aaron.jpg
