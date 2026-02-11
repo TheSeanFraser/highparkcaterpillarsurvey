@@ -99,7 +99,7 @@ gallery:
   - url: /assets/images/gallery/full-res/juniper-twig-geometer-brown-form-richard-aaron.jpg
     image_path: /assets/images/gallery/thumbnail/juniper-twig-geometer-brown-form-richard-aaron.jpg
     title: "Juniper-twig Geometer (brown form) - Richard Aaron"
-    
+
   - url: /assets/images/gallery/full-res/juniper-geometer-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/juniper-geometer-sean-fraser.jpg
     title: "Juniper Geometer (green form) - Sean Fraser"
@@ -204,4 +204,4 @@ gallery:
 
 Here are some selected photos of the survey's finds. Select the photo to see the species' names.
 
-{% include gallery caption="" %}
+{% include gallery %}
