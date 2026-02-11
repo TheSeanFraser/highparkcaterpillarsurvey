@@ -16,6 +16,10 @@ gallery:
     image_path: /assets/images/gallery/thumbnail/abbotts-sphinx-penultimate-instar-richard-aaron.jpg
     title: "Abbott's Sphinx (penultimate instar) - Richard Aaron"
 
+  - url: /assets/images/gallery/full-res/the-asteroid-richard-aaron.jpg
+    image_path: /assets/images/gallery/thumbnail/the-asteroid-richard-aaron.jpg
+    title: "The Asteroid - Richard Aaron"
+
   - url: /assets/images/gallery/full-res/banded-hairstreak-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/banded-hairstreak-sean-fraser.jpg
     title: "Banded Hairstreak - Sean Fraser"
@@ -88,6 +92,10 @@ gallery:
     image_path: /assets/images/gallery/thumbnail/gray-furcula-sean-fraser.jpg
     title: "Gray Furcula - Sean Fraser"
 
+  - url: /assets/images/gallery/full-res/the-half-wing-richard-aaron.jpg
+    image_path: /assets/images/gallery/thumbnail/the-half-wing-richard-aaron.jpg
+    title: "The Half-wing - Richard Aaron"
+
   - url: /assets/images/gallery/full-res/hickory-tussock-moth-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/hickory-tussock-moth-sean-fraser.jpg
     title: "Hickory Tussock Moth - Sean Fraser"
@@ -155,14 +163,6 @@ gallery:
   - url: /assets/images/gallery/full-res/stout-spanworm-richard-aaron.jpg
     image_path: /assets/images/gallery/thumbnail/stout-spanworm-richard-aaron.jpg
     title: "Stout Spanworm - Richard Aaron"
-
-  - url: /assets/images/gallery/full-res/the-asteroid-richard-aaron.jpg
-    image_path: /assets/images/gallery/thumbnail/the-asteroid-richard-aaron.jpg
-    title: "The Asteroid - Richard Aaron"
-
-  - url: /assets/images/gallery/full-res/the-half-wing-richard-aaron.jpg
-    image_path: /assets/images/gallery/thumbnail/the-half-wing-richard-aaron.jpg
-    title: "The Half-wing - Richard Aaron"
 
   - url: /assets/images/gallery/full-res/tiger-swallowtail-sean-fraser.jpg
     image_path: /assets/images/gallery/thumbnail/tiger-swallowtail-sean-fraser.jpg
