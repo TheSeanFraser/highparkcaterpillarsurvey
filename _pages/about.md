@@ -17,7 +17,7 @@ To feature our efforts, an iNaturalist project has been created to compile a col
 
 [Click here to view our iNaturalist project.](https://www.inaturalist.org/projects/high-park-caterpillar-survey)
 
-During our 2025 season, we began paying more attention to a few other aspects of the insect larval world. Leafminers (larvae which live within the tissue of leaves) and gall formers (larvae which induce an abnormal growth of plant tissue to live within) both exhibit interesting mechanisms of defense which we feel are worthy of documenting.
+During our 2025 season, we began paying more attention to a few other aspects of the insect larval world. Leafminers (larvae which live within the tissue of leaves) and gall formers (larvae which induce an abnormal growth of plant tissue to live within) both exhibit interesting mechanisms of defense which we feel are worthy documenting.
 
 [Leafminers of High Park](https://www.inaturalist.org/projects/leafminers-of-high-park)
 
