@@ -19,7 +19,7 @@ Reasons to join:
 - Contribute to citizen science
 - Regular participants receive a [High Park caterpillar poster](/poster/)
 
-[Read the FAQs](/faq/) for more information.
+[Read the FAQs](/faqs/) for more information.
 
 ![UV caterpillars](/assets/images/uv-caterpillars.jpg)
 <small>Oregon Cycnia caterpillars fluorescing on a dogbane plant.</small>

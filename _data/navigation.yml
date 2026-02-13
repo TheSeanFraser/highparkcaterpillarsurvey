@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
   - title: "Methods"
@@ -8,8 +10,8 @@ main:
     url: /gallery/
   - title: "Volunteer"
     url: /volunteer/
-  - title: "FAQ"
-    url: /faq/
+  - title: "FAQs"
+    url: /faqs/
   - title: "Posts"
     url: /posts/
 

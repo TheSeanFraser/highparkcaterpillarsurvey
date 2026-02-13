@@ -9,7 +9,8 @@ header:
 excerpt: "Caterpillars are a critical, and often overlooked, part of many ecosystems. Launched in the summer of 2020, the High Park Caterpillar Survey is a multi-year citizen science project (100% volunteer) documenting the diversity, abundance, and behaviour of caterpillars in Toronto's High Park."
 permalink: /
 ---
-<p style="text-align: center;"><h1>Number of species seen to date: <i>255</i></h1></p>
+
+# Number of species seen to date: 255
 
 As far as we know, this is the only citizen science project in North America (and possibly the world) focused exclusively on documenting the caterpillars of an urban park. If you know of any others, please let us know.
 

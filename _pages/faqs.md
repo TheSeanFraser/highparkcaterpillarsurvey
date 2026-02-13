@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Frequently Asked Questions
-permalink: /faq/
+permalink: /faqs/
 header:
   image: /assets/images/faq-header.jpg
   caption: "Abbott's Sphinx"
@@ -18,7 +18,7 @@ Absolutely! All you need is a love of nature and a sense of adventure (think: tr
 
 ## How many species of caterpillars have you found so far?
 
-The list is constantly expanding. To see the current total, visit the home page and scroll down to the species counter.
+The list is constantly expanding. To see the current total, visit the [home page](/) and scroll down to the species counter.
 
 ## Do you find anything besides caterpillars?
 
