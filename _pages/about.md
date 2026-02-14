@@ -15,9 +15,9 @@ Richard Aaron, the survey's founder, has been involved with High Park for over t
 ## iNaturalist Projects
 To feature our efforts, an iNaturalist project has been created to compile a collection of the caterpillars we have found in High Park.
 
-[Click here to view our iNaturalist project.](https://www.inaturalist.org/projects/high-park-caterpillar-survey)
+**[Click here to view our iNaturalist project.](https://www.inaturalist.org/projects/high-park-caterpillar-survey)**
 
-During our 2025 season, we began paying more attention to a few other aspects of the insect larval world. Leafminers (larvae which live within the tissue of leaves) and gall formers (larvae which induce an abnormal growth of plant tissue to live within) both exhibit interesting mechanisms of defense which we feel are worthy documenting.
+During our 2025 season, we began paying more attention to a few other aspects of the insect larval world. Leafminers (larvae which live within the tissue of leaves) and gall formers (larvae which induce an abnormal growth of plant tissue to live within) both exhibit interesting mechanisms of defense which we feel are worth documenting.
 
 [Leafminers of High Park](https://www.inaturalist.org/projects/leafminers-of-high-park)
 
