@@ -9,11 +9,13 @@ permalink: /poster/
 </p>
 
 
-The poster title reads:
+
 <div style="text-align: center;">
-<b>LEPIDOPTERAN LARVAE</b>
-<br>
-A mini-showcase of High Park's caterpillar diversity
+	The poster title reads:
+	<br><br>
+	<b>LEPIDOPTERAN LARVAE</b>
+	<br>
+	A mini-showcase of High Park's caterpillar diversity
 </div>
 
 <br>
