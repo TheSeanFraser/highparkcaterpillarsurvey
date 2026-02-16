@@ -14,7 +14,7 @@ permalink: /test-home
 
 As far as we know, this is the only citizen science project in North America (and possibly the world) focused exclusively on documenting the caterpillars of an urban park. If you know of any others, please let us know.
 
-The survey is currently comprised of over a dozen enthusiastic volunteers, ranging widely in age and background. New volunteers are always welcome — no experience necessary. [You can find more details here.](/volunteer/)
+Founded by local naturalist Richard Aaron, the survey is currently comprised of over a dozen enthusiastic volunteers, ranging widely in age and background. New volunteers are always welcome — no experience necessary. [You can find more details here.](/volunteer/)
 
 For a more in-depth survey history and what makes caterpillars so fascinating, [click here](https://highparknaturecentre.com/high-park-caterpillar-survey-citizen-science-when-the-sun-goes-down/).
 
@@ -22,12 +22,6 @@ For a more in-depth survey history and what makes caterpillars so fascinating, [
 ![Fringed Looper](/assets/images/fringed-looper.jpg)
 <small>*Fringed Looper*</small>
 
-
-## Founder
-Richard Aaron, the survey's founder, has been involved with High Park for over two decades, including founding the High Park Moth Study (2016-2020). He has taught over two dozen adult workshops for the High Park Nature Centre (fungi, wildflowers, trees & shrubs, caterpillars), led nature walks for High Park Walking Tours, given presentations to the High Park Stewards, and wrote an interpretive sign about dragonflies for the High Park Natural Environment Committee, which stands next to Grenadier Pond. In addition, Richard has done nature walks, talks, and workshops beyond the borders of High Park on a wide variety of topics for over 100 organizations, ranging from naturalist clubs to universities.
-
-![Brown-hooded Owlet](/assets/images/brown-hooded-owlet.jpg)
-<small>*Brown-hooded Owlet*</small>
 
 ## iNaturalist Projects
 To feature our efforts, an iNaturalist project has been created to compile a collection of the caterpillars we have found in High Park.
@@ -42,9 +36,8 @@ During our 2025 season, we began paying more attention to a few other aspects of
 
 
 ## How to Reach Us
-
 Send all inquiries to: **[info@highparkcaterpillars.ca](mailto:info@highparkcaterpillars.ca)**
 
 
-![Monarch](/assets/images/monarch.jpg)
-<small>*Monarch*</small>
+![Brown-hooded Owlet](/assets/images/brown-hooded-owlet.jpg)
+<small>*Brown-hooded Owlet*</small>
