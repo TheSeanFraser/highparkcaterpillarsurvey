@@ -10,12 +10,14 @@ permalink: /poster/
 
 
 
-<div style="text-align: center;">
+<div style="text-align: center; line-height: 2.5;">
 	The poster title reads:
-	<br><br>
-	<b>LEPIDOPTERAN LARVAE</b>
 	<br>
-	A mini-showcase of High Park's caterpillar diversity
+	<div style="line-height: 1.5;">
+		<b>LEPIDOPTERAN LARVAE</b>
+		<br>
+		A mini-showcase of High Park's caterpillar diversity
+	</div>
 </div>
 
 <br>
