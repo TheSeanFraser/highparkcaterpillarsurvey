@@ -42,4 +42,6 @@ Send all inquiries to: **[info@highparkcaterpillars.ca](mailto:info@highparkcate
 ![Brown-hooded Owlet](/assets/images/brown-hooded-owlet.jpg)
 <small>*Brown-hooded Owlet*</small>
 
-<br>
+<div style="line-height: 0.25;">
+  <br>
+</div>
