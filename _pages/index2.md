@@ -12,11 +12,11 @@ permalink: /test-home
 
 # Number of species seen to date: 255
 
-As far as we know, this is the only citizen science project in North America (and possibly the world) focused exclusively on documenting the caterpillars of an urban park. If you know of any others, please let us know.
-
 Founded by local naturalist Richard Aaron, the survey is currently comprised of over a dozen enthusiastic volunteers, ranging widely in age and background. New volunteers are always welcome — no experience necessary. [You can find more details here.](/volunteer/)
 
-For a more in-depth survey history and what makes caterpillars so fascinating, [click here](https://highparknaturecentre.com/high-park-caterpillar-survey-citizen-science-when-the-sun-goes-down/).
+For a more in-depth history of the survey and what makes caterpillars so fascinating, [click here](https://highparknaturecentre.com/high-park-caterpillar-survey-citizen-science-when-the-sun-goes-down/).
+
+As far as we know, this is the only citizen science project in North America (and possibly the world) focused exclusively on documenting the caterpillars of an urban park. If you know of any others, please let us know.
 
 
 ![Fringed Looper](/assets/images/fringed-looper.jpg)
