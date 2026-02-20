@@ -19,8 +19,10 @@ For a more in-depth history of the survey and what makes caterpillars so fascina
 As far as we know, this is the only citizen science project in North America (and possibly the world) focused exclusively on documenting the caterpillars of an urban park. If you know of any others, please let us know.
 
 
-![Fringed Looper](/assets/images/fringed-looper.jpg)
-<small>*Fringed Looper*</small>
+<div style="text-align: center;" markdown="1">
+  ![Fringed Looper](/assets/images/fringed-looper.jpg)
+  <small>*Fringed Looper*</small>
+</div>
 
 
 ## iNaturalist Projects
@@ -39,9 +41,13 @@ During our 2025 season, we began paying more attention to a few other aspects of
 Send all inquiries to: **[info@highparkcaterpillars.ca](mailto:info@highparkcaterpillars.ca)**
 
 
-![Brown-hooded Owlet](/assets/images/brown-hooded-owlet.jpg)
-<small>*Brown-hooded Owlet*</small>
+<div style="text-align: center;" markdown="1">
+  ![Brown-hooded Owlet](/assets/images/brown-hooded-owlet.jpg)
+  <small>*Brown-hooded Owlet*</small>
+</div>
 
+
+<!-- Add some space between content and "Recent posts" -->
 <div style="line-height: 0.25;">
   <br>
 </div>

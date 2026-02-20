@@ -1,6 +1,6 @@
 ---
 title: Gallery
-layout: single
+layout: single-centred-title
 permalink: /gallery/
 header:
   image: /assets/images/gallery-header.jpg
@@ -202,6 +202,6 @@ gallery:
 
 ---
 
-Here are some selected photos of the survey's finds. Select the photo to see the species' names.
+Here are some selected photos of the survey's finds. Select the photo to see the species names.
 
 {% include gallery %}

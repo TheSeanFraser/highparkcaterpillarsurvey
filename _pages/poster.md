@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single-centred-title
 title: Poster
 permalink: /poster/
 ---

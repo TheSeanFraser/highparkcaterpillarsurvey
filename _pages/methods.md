@@ -14,14 +14,16 @@ While a number of techniques exist for finding caterpillars, we have found the f
 
 Our main method is to go out after sunset, ultraviolet (UV) flashlights in hand, in search of caterpillars that fluoresce. Many caterpillar species fluoresce when UV light is shined on them and this fluorescence is much easier to see in the dark.
 
-![](/assets/images/tobacco-hornworm-flash-2025.jpg)
+![](/assets/images/tobacco-hornworm-flash-2025.jpg)\
+<small>*Photo by Sourav Ghosh.*</small>
 
-Tobacco Hornworm with camera flash. <small>*Photo by Sourav Ghosh.*</small>
+Tobacco Hornworm with camera flash.
 
 
-![](/assets/images/tobacco-hornworm-uv-2025.jpg)
+![](/assets/images/tobacco-hornworm-uv-2025.jpg)\
+<small>*Photo by Sourav Ghosh.*</small>
 
-Tobacco Hornworm fluorescing under UV light. <small>*Photo by Sourav Ghosh.*</small>
+Tobacco Hornworm fluorescing under UV light.
 
 
 
@@ -29,30 +31,44 @@ Tobacco Hornworm fluorescing under UV light. <small>*Photo by Sourav Ghosh.*</sm
 
 ## 2. Visual Searches
 
-On occasion, we do daytime sessions to search for caterpillars that feed on or within leaves (the latter are called leafminers) or other plant parts, or that manipulate leaves in various ways to create shelters (leaf rollers/folders/tiers). On rare occasion, we have found caterpillars that feed on substrates such as fungi.
+We also conduct daytime sessions to search for caterpillars that feed externally on leaves or other plant parts, within leaves or other plant parts (the former are called leafminers, the latter are called borers), or that manipulate leaves in various ways to create shelters (leaf rollers/folders/tiers). On rare occasion, we have found caterpillars that feed on other substrates, such as fungi.
 
 
 ### Leafmines
 ![](/assets/images/leafmine-1.jpg)
 
-Leafmine of *Coptodisca splendoriferella* (no common name). The hole on the bottom left is created by the larva, which sews the two surfaces of the cut-out section together with silk before dropping into the leaf litter to pupate.
+Multiple leafmines made by *Coptodisca splendoriferella* (no common name) larvae
 
-<br/>
+The hole on the bottom left was created by a larva which sewed the two surfaces of the cut-out section together with silk before dropping into the leaf litter to pupate.
+
+<div style="line-height: 1;">
+  <br>
+</div>
 
 ![](/assets/images/leafmine-2.jpg)
 
-Leafmine of *Coptodisca splendoriferella* with backlighting. Here you can see the structure of the "mine" created by the larva, as well as its frass.
+Leafmine of *Coptodisca splendoriferella* with backlighting
+
+Here you can see the structure of the "mine" created by the larva, as well as its frass.
+
 
 ### Leaf constructions
 ![](/assets/images/leaftier-1.jpg)
 
-Leaf construction of Oak Leaftier Moth. The leaves are tied together with silk, to shelter the larvae while they feed from the inside of the construction. The brown sections of the leaves are where the caterpillar has eaten the inner layer of the leaf tissue.
+Leaf construction of an Oak Leaftier Moth larva
 
-<br/>
+The leaves are tied together with silk to shelter the larva while it safely feeds inside the construction. The brown sections of the leaves are where the caterpillar has eaten the inner layer of the leaf tissue.
+
+<div style="line-height: 1;">
+  <br>
+</div>
 
 ![](/assets/images/leaftier-2.jpg)
 
-Larva of Oak Leaftier Moth that was residing in the above construction. Notice the leaf tissue missing between the veins of the leaf.
+The larva of the Oak Leaftier Moth that was residing in the above construction
+
+Notice the leaf tissue missing from between some of the leaf veins.
+
 
 ## 3. Beating Sheet
 
