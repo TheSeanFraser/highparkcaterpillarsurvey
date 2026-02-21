@@ -15,13 +15,12 @@ While a number of techniques exist for finding caterpillars, we have found the f
 Our main method is to go out after sunset, ultraviolet (UV) flashlights in hand, in search of caterpillars that fluoresce. Many caterpillar species fluoresce when UV light is shined on them and this fluorescence is much easier to see in the dark.
 
 ![](/assets/images/tobacco-hornworm-flash-2025.jpg)\
-<small>*Photo by Sourav Ghosh.*</small>
+<small>*Photo: Sourav Ghosh*</small>
 
 Tobacco Hornworm with camera flash.
 
-
 ![](/assets/images/tobacco-hornworm-uv-2025.jpg)\
-<small>*Photo by Sourav Ghosh.*</small>
+<small>*Photo: Sourav Ghosh*</small>
 
 Tobacco Hornworm fluorescing under UV light.
 
@@ -35,37 +34,35 @@ We also conduct daytime sessions to search for caterpillars that feed externally
 
 
 ### Leafmines
-![](/assets/images/leafmine-1.jpg)
-
-Multiple leafmines made by *Coptodisca splendoriferella* (no common name) larvae
+![](/assets/images/leafmine-1.jpg)\
+<small>Multiple leafmines made by *Coptodisca splendoriferella* (no common name) larvae</small>
 
 The hole on the bottom left was created by a larva which sewed the two surfaces of the cut-out section together with silk before dropping into the leaf litter to pupate.
 
+<!-- Add some space -->
 <div style="line-height: 1;">
   <br>
 </div>
 
-![](/assets/images/leafmine-2.jpg)
-
-Leafmine of *Coptodisca splendoriferella* with backlighting
+![](/assets/images/leafmine-2.jpg)\
+<small>Leafmine of *Coptodisca splendoriferella* with backlighting</small>
 
 Here you can see the structure of the "mine" created by the larva, as well as its frass.
 
 
 ### Leaf constructions
-![](/assets/images/leaftier-1.jpg)
-
-Leaf construction of an Oak Leaftier Moth larva
+![](/assets/images/leaftier-1.jpg)\
+<small>Leaf construction of an Oak Leaftier Moth larva</small>
 
 The leaves are tied together with silk to shelter the larva while it safely feeds inside the construction. The brown sections of the leaves are where the caterpillar has eaten the inner layer of the leaf tissue.
 
+<!-- Add some space -->
 <div style="line-height: 1;">
   <br>
 </div>
 
-![](/assets/images/leaftier-2.jpg)
-
-The larva of the Oak Leaftier Moth that was residing in the above construction
+![](/assets/images/leaftier-2.jpg)\
+<small>The larva of the Oak Leaftier Moth that was residing in the above construction</small>
 
 Notice the leaf tissue missing from between some of the leaf veins.
 
