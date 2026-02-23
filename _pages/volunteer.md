@@ -21,8 +21,7 @@ Reasons to join:
 
 [Read the FAQs](/faqs/) for more information.
 
-![UV caterpillars](/assets/images/uv-caterpillars.jpg)
-<small>Oregon Cycnia caterpillars fluorescing on a dogbane plant.</small>
+{% include figure image_path="/assets/images/uv-caterpillars.jpg" alt="this is a placeholder image" caption="Oregon Cycnia caterpillars fluorescing on a dogbane plant." %}
 
 [Check out this post](/posts/Night-Session-Routine/) for a sense of how a night session typically goes.
 
