@@ -2,6 +2,7 @@
 layout: single
 title: Parasitoids
 permalink: /parasitoids/
+sitemap: false
 ---
 
 
