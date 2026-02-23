@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Members Only Information
+title: Members Only
 permalink: /members-only/
 sitemap: false
 header:
@@ -10,8 +10,8 @@ header:
 
 Here are some links for the members of the survey.
 
-## General
+## General Information
 - [Overall Species List (updated 2024)](/members-only/species-list)
 
-## Prep
+## Season Preparations
 - [2026 Target Species Brainstorming List](/members-only/2026-target-species-list)
