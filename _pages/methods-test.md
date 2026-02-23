@@ -2,6 +2,7 @@
 layout: single
 title: Survey Methods
 permalink: /methods-test/
+sitemap: false
 header:
   image: /assets/images/methods-header.jpg
   caption: "Western Furcula"
@@ -14,6 +15,24 @@ While a number of techniques exist for finding caterpillars, we have found the f
 
 Our main method is to go out after sunset, ultraviolet (UV) flashlights in hand, in search of caterpillars that fluoresce. Many caterpillar species fluoresce when UV light is shined on them and this fluorescence is much easier to see in the dark.
 
+
+
+Test 2
+<div>
+  <div class="half">
+  {% include figure image_path="/assets/images/tobacco-hornworm-flash-2025.jpg" alt="this is a placeholder image" caption="Tobacco Hornworm with camera flash. 
+  <br>
+  *Photo: Sourav Ghosh*" %}
+  </div>
+
+  {% include figure image_path="/assets/images/tobacco-hornworm-uv-2025.jpg" alt="this is a placeholder image" caption="Tobacco Hornworm fluorescing under UV light. 
+  <br>
+  *Photo: Sourav Ghosh*" %}
+
+</div>
+
+Working! 
+
 {% include figure image_path="/assets/images/tobacco-hornworm-flash-2025.jpg" alt="this is a placeholder image" caption="Tobacco Hornworm with camera flash. 
 <br>
 *Photo: Sourav Ghosh*" %}
@@ -23,15 +42,13 @@ Our main method is to go out after sunset, ultraviolet (UV) flashlights in hand,
 *Photo: Sourav Ghosh*" %}
 
 
-
-
-
 ## 2. Visual Searches
 
 We also conduct daytime sessions to search for caterpillars that feed externally on leaves or other plant parts, within leaves or other plant parts (the former are called leafminers, the latter are called borers), or that manipulate leaves in various ways to create shelters (leaf rollers/folders/tiers). On rare occasion, we have found caterpillars that feed on other substrates, such as fungi.
 
 
 ### Leafmines
+
 {% include figure image_path="/assets/images/leafmine-1.jpg" alt="this is a placeholder image" caption="Multiple leafmines made by *Coptodisca splendoriferella* (no common name) larvae
 <br>
 <br>
@@ -47,9 +64,8 @@ caption="Leafmine of *Coptodisca splendoriferella* with backlighting
 Here you can see the structure of the mine created by the larva, as well as its frass." %}
 
 
-
-
 ### Leaf constructions
+
 {% include figure 
 image_path="/assets/images/leaftier-1.jpg" 
 alt="this is a placeholder image" 
