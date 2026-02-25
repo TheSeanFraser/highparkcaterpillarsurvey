@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Survey Methods
-permalink: /methods/
+permalink: /methods
 header:
   image: /assets/images/methods-header.jpg
   caption: "Western Furcula"
@@ -14,18 +14,9 @@ While a number of techniques exist for finding caterpillars, we have found the f
 
 Our main method is to go out after sunset, ultraviolet (UV) flashlights in hand, in search of caterpillars that fluoresce. Many caterpillar species fluoresce when UV light is shined on them and this fluorescence is much easier to see in the dark.
 
-![](/assets/images/tobacco-hornworm-flash-2025.jpg)\
-<small>*Photo: Sourav Ghosh*</small>
-
-Tobacco Hornworm with camera flash.
-
-![](/assets/images/tobacco-hornworm-uv-2025.jpg)\
-<small>*Photo: Sourav Ghosh*</small>
-
-Tobacco Hornworm fluorescing under UV light.
-
-
-
+{% include figure image_path="/assets/images/tobacco-hornworm-flash-uv.jpg" alt="this is a placeholder image" caption="Tobacco Hornworm with camera flash (left) and fluorescing under UV light (right)
+<br>
+*Photos: Sourav Ghosh*" %}
 
 
 ## 2. Visual Searches
@@ -34,37 +25,29 @@ We also conduct daytime sessions to search for caterpillars that feed externally
 
 
 ### Leafmines
-![](/assets/images/leafmine-1.jpg)\
-<small>Multiple leafmines made by *Coptodisca splendoriferella* (no common name) larvae</small>
 
-The hole on the bottom left was created by a larva which sewed the two surfaces of the cut-out section together with silk before dropping into the leaf litter to pupate.
+{% include figure image_path="/assets/images/leafmine.jpg" alt="this is a placeholder image" caption="Multiple leafmines made by *Coptodisca splendoriferella* (no common name) larvae" %}
 
-<!-- Add some space -->
-<div style="line-height: 1;">
-  <br>
-</div>
+(*Left image, lighted from the front*) The hole on the bottom left was created by a larva which sewed the two surfaces of the cut-out section together with silk before dropping into the leaf litter to pupate.
 
-![](/assets/images/leafmine-2.jpg)\
-<small>Leafmine of *Coptodisca splendoriferella* with backlighting</small>
+(*Right image, backlighted*) Here you can see the structure of the mine created by the larva, as well as its frass.
 
-Here you can see the structure of the "mine" created by the larva, as well as its frass.
+### Borers
+{% include figure image_path="/assets/images/borer.jpg" alt="this is a placeholder image" caption="Evidence of a Locust Twig Borer Moth larva" %}
+
+The larva lives inside the plant (a twig of a Black Locust in this case), expelling its frass from an opening as it bores its way through the plant material.
+
+
 
 
 ### Leaf constructions
-![](/assets/images/leaftier-1.jpg)\
-<small>Leaf construction of an Oak Leaftier Moth larva</small>
 
-The leaves are tied together with silk to shelter the larva while it safely feeds inside the construction. The brown sections of the leaves are where the caterpillar has eaten the inner layer of the leaf tissue.
+{% include figure image_path="/assets/images/leaftier.jpg" alt="this is a placeholder image" caption="Leaf construction and larva of an Oak Leaftier Moth" %}
 
-<!-- Add some space -->
-<div style="line-height: 1;">
-  <br>
-</div>
+(*Left image*) The leaves are tied together with silk to shelter the larva while it safely feeds inside the construction. The brown sections of the leaves are where the caterpillar has eaten the inner layer of the leaf tissue.
 
-![](/assets/images/leaftier-2.jpg)\
-<small>The larva of the Oak Leaftier Moth that was residing in the above construction</small>
+(*Right image*) Notice the leaf tissue missing from between some of the leaf veins.
 
-Notice the leaf tissue missing from between some of the leaf veins.
 
 
 ## 3. Beating Sheet
