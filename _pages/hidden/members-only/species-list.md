@@ -7,7 +7,7 @@ sitemap: false
 
 Below is a list of species recorded by the efforts of the survey.
 
-A few entries are marked with asterisks(\*), which represents a group of related species that cannot reliably be told apart as caterpillars but need to be reared to the imago stage (moth/butterfly), at which point they can almost always be visually identified to species. Species in these groups that are marked with a dagger (†) have been succesfully identified. The unmarked species in these groups reflect the possibility that we may have seen these species, but were unable to identify them.
+A few entries are marked with asterisks(\*), which represent a group of related species that cannot reliably be told apart as caterpillars but need to be reared to the imago stage (moth/butterfly), at which point they can almost always be visually identified to species. Species in these groups that are marked with a dagger (†) have been successfully identified. The unmarked species in these groups reflect the possibility of being recorded, but were unable to be identified.
 
 | Scientific Name | Common Name |
 | :--- | :--- |
