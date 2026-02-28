@@ -7,7 +7,7 @@ sitemap: false
 
 Below is a list of species recorded by the efforts of the survey.
 
-A few entries are marked with asterisks(\*), which represents a group of related species that cannot reliably be told apart as caterpillars but need to be reared to the imago stage (moth/butterfly), at which point they can almost always be visually identified to species.
+A few entries are marked with asterisks(\*), which represents a group of related species that cannot reliably be told apart as caterpillars but need to be reared to the imago stage (moth/butterfly), at which point they can almost always be visually identified to species. Species in these groups that are marked with a dagger (†) have been succesfully identified. The unmarked species in these groups reflect the possibility that we may have seen these species, but were unable to identify them.
 
 | Scientific Name | Common Name |
 | :--- | :--- |
@@ -86,7 +86,7 @@ A few entries are marked with asterisks(\*), which represents a group of related
 | *Herpetogramma pertextalis* | Bold-feathered Grass Moth |
 | *Anania funebris* | White-spotted Sable |
 | *Pantographa limata* | Basswood Leafroller |
-| \**Desmia funeralis*<br>\**Desmia maculalis* | Grape Leaffolder<br>White-headed Grape Leaffolder<br>(We have successfuly reared and IDed *D. funeralis*.) |
+| \**Desmia funeralis* †<br>\**Desmia maculalis* | Grape Leaffolder<br>White-headed Grape Leaffolder<br> |
 | *Anania (Eurrhypara) hortulata* | Small Magpie |
 | *Perispasta caeculalis* | Titian Peale's Moth |
 | *Sitochroa palealis* | Carrot Seed Moth |
@@ -116,7 +116,7 @@ A few entries are marked with asterisks(\*), which represents a group of related
 | *Alsophila pometaria* | Fall Cankerworm |
 | *Nematocampa resistaria* | Horned Spanworm |
 | *Macaria aemulataria* | Common Angle |
-| \**Macaria bisignata*<br>\**Macaria minorata*<br>\**Macaria pinistrobata* | Red-headed Inchworm<br>Minor Angle<br>White Pine Looper<br>(We have successfully reared and identified *Macaria bisignata*.) |
+| \**Macaria bisignata* †<br>\**Macaria minorata*<br>\**Macaria pinistrobata* | Red-headed Inchworm<br>Minor Angle<br>White Pine Looper<br> |
 | *Digrammia ocellinata* | Faint-spotted Angle |
 | *Anavitrinella pampinaria* | Common Gray |
 | *Ectropis crepuscularia* | The Small Engrailed |
@@ -135,7 +135,7 @@ A few entries are marked with asterisks(\*), which represents a group of related
 | *Ennomos magnaria* | Maple Spanworm |
 | *Ennomos subsignaria* | Elm Spanworm |
 | *Eusarca confusaria* | Confused Eusarca |
-| \**Tetracis crocallata*<br>\**Tetracis cachexiata* | Yellow Slant-line<br>White Slant-line<br>(We have successfully reared and identififed *Tetracis crocallata*.) |
+| \**Tetracis crocallata* †<br>\**Tetracis cachexiata* | Yellow Slant-line<br>White Slant-line<br> |
 | *Eutrapela clemataria* | Curved-toothed Geometer |
 | *Patalene olyzonaria* | Juniper-Twig Geometer |
 | *Prochoerodes lineola* | Large Maple Spanworm |
@@ -174,7 +174,7 @@ A few entries are marked with asterisks(\*), which represents a group of related
 | *Catocala piatrix* | The Penitent |
 | *Catocala cara* | Darling Underwing |
 | *Catocala lineella* | Little Lined Underwing |
-| \**Caenurgina crassiuscula*<br>\**Caenurgina erechtea* | Clover Looper<br>Forage Looper |
+| \**Caenurgina crassiuscula* †<br>\**Caenurgina erechtea* | Clover Looper<br>Forage Looper |
 | *Parallelia bistriaris* | Maple Looper Moth |
 | *Zale lunata* | Lunate Zale |
 | *Zale galbanata* | Maple Zale |
