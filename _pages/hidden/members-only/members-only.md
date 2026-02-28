@@ -11,7 +11,7 @@ header:
 Here are some links for the members of the survey.
 
 ## General Information
-- [Overall Species List (updated 2024)](/members-only/species-list)
+- [Overall Species List (updated at the end of the 2025 season)](/members-only/species-list)
 
 ## Season Preparations
 - [2026 Target Species Brainstorming List](/members-only/2026-target-species-list)
