@@ -7,7 +7,7 @@ sitemap: false
 
 Below is a list of species recorded by the efforts of the survey.
 
-*Note*: A few entries are marked with asterisks(\*), which represents a group of possible species based on the ability to visually identify a caterpillar (or adult moth/butterfly when reared).
+A few entries are marked with asterisks(\*), which represents a group of related species that cannot reliably be told apart as caterpillars but need to be reared to the imago stage (moth/butterfly), at which point they can almost always be visually identified to species.
 
 | Scientific Name | Common Name |
 | :--- | :--- |
@@ -86,7 +86,7 @@ Below is a list of species recorded by the efforts of the survey.
 | *Herpetogramma pertextalis* | Bold-feathered Grass Moth |
 | *Anania funebris* | White-spotted Sable |
 | *Pantographa limata* | Basswood Leafroller |
-| *Desmia funeralis / D. maculalis* | Grape Leaffolder / White-headed Grape Leaffolder |
+| \**Desmia funeralis*<br>\**Desmia maculalis* | Grape Leaffolder<br>White-headed Grape Leaffolder<br>(We have successfuly reared and IDed *D. funeralis*.) |
 | *Anania (Eurrhypara) hortulata* | Small Magpie |
 | *Perispasta caeculalis* | Titian Peale's Moth |
 | *Sitochroa palealis* | Carrot Seed Moth |
@@ -116,7 +116,7 @@ Below is a list of species recorded by the efforts of the survey.
 | *Alsophila pometaria* | Fall Cankerworm |
 | *Nematocampa resistaria* | Horned Spanworm |
 | *Macaria aemulataria* | Common Angle |
-| *Macaria genus (incl. M. bisignata)* | Macaria genus / Red-headed Inchworm |
+| \**Macaria bisignata*<br>\**Macaria minorata*<br>\**Macaria pinistrobata* | Red-headed Inchworm<br>Minor Angle<br>White Pine Looper<br>(We have successfully reared and identified *Macaria bisignata*.) |
 | *Digrammia ocellinata* | Faint-spotted Angle |
 | *Anavitrinella pampinaria* | Common Gray |
 | *Ectropis crepuscularia* | The Small Engrailed |
@@ -129,13 +129,13 @@ Below is a list of species recorded by the efforts of the survey.
 | *Phigalia strigataria* | Small Phigalia |
 | *Lomographa vestaliata* | White Spring Moth |
 | *Cabera erythemaria* | Yellow Dusted Cream Moth |
-| *Pero honestaria / P. morrisonaria* | Honest Pero / Morrison's Pero |
+| \**Pero honestaria*<br>\**Pero morrisonaria* | Honest Pero<br>Morrison's Pero |
 | *Phaeoura quernaria* | Oak Beauty |
 | *Campaea perlata* | Pale Beauty |
 | *Ennomos magnaria* | Maple Spanworm |
 | *Ennomos subsignaria* | Elm Spanworm |
 | *Eusarca confusaria* | Confused Eusarca |
-| *Tetracis sp. (including T. crocallata)* | Slant-line genus / Yellow Slant-line |
+| \**Tetracis crocallata*<br>\**Tetracis cachexiata* | Yellow Slant-line<br>White Slant-line<br>(We have successfully reared and identififed *Tetracis crocallata*.) |
 | *Eutrapela clemataria* | Curved-toothed Geometer |
 | *Patalene olyzonaria* | Juniper-Twig Geometer |
 | *Prochoerodes lineola* | Large Maple Spanworm |
