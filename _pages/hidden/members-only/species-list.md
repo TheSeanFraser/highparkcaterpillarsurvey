@@ -4,10 +4,19 @@ title: Species List
 permalink: /members-only/species-list/
 sitemap: false
 ---
-
+\
 Below is a list of species recorded by the efforts of the survey.
 
-A few entries are marked with asterisks(\*), which represent a group of related species that cannot reliably be told apart as caterpillars but need to be reared to the imago stage (moth/butterfly), at which point they can almost always be visually identified to species. Species in these groups that are marked with a dagger (†) have been successfully identified. The unmarked species in these groups reflect the possibility of being recorded, but were unable to be identified.
+
+| *Symbol* | *Note* |
+| * | Cannot be confidently told apart from one or more closely related species while in the larval stage (must be reared to the adult stage in order to be identified). |
+| † | An asterisked species that was reared to the adult stage (moth/butterfly) and identified. |
+
+<!-- 
+(\*) - Can't be confidently told apart from one or more closely related species while in the larval stage (must be reared to the adult stage in order to be identified).\
+(†) - An asterisked species that was reared to the adult stage (moth/butterfly) and identified.
+ -->
+
 
 | Scientific Name | Common Name |
 | :--- | :--- |
@@ -59,7 +68,7 @@ A few entries are marked with asterisks(\*), which represent a group of related 
 | *Archips semiferanus* | Oak Leafroller Moth |
 | *Archips purpurana* | Omnivorous Leafroller |
 | *Episimus argutana* | Sumac Leaftier |
-| *Olethreutesinornatana* | Inornate Olethreutes |
+| *Olethreutes inornatana* | Inornate Olethreutes |
 | *Harrisina americana* | Grapeleaf Skeletonizer |
 | *Epargyreus clarus* | Silver-Spotted Skipper |
 | *Thorybes pylades* | Northern Cloudywing |
