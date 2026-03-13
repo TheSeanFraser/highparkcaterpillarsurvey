@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Survey Methods
-permalink: /methods
+permalink: /methods/
 header:
   image: /assets/images/methods-header.jpg
   caption: "Western Furcula"
