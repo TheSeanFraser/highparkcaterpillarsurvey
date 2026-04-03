@@ -1,18 +1,16 @@
 ---
 layout: single
-# title: Events
+title:
 permalink: /events/
 header:
   image: /assets/images/events-header.jpg
   caption: "Titian Peale's Moth"
 ---
-
-
 # Public Events
 
 ## High Park Caterpillar Hunt - Toronto Entomologists' Association
-Saturday, May 30, 2026 1 pm to 3 pm. (rain date: Sunday, May 31)\
-Leader: Richard Aaron
+Saturday, May 30, 2026 1 pm to 3 pm. \
+(rain date: Sunday, May 31)\
 
 Novices are welcome. This event is part of Global Butterfly Week. We are likely to see both butterfly caterpillars and moth caterpillars. As for species, who knows? That will be the surprise. Visit [www.ontarioinsects.org/fieldtrips/](https://www.ontarioinsects.org/fieldtrips/) for more information.
 
