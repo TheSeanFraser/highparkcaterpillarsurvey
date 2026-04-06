@@ -19,7 +19,7 @@ As so often happens with many species found by the survey, once a species has be
 
 
 
-Continuing with the"when it rains, it pours" theory, up until the latter part last season no caterpillars of the *Haploa* genus had ever been recorded for the survey. This changed when three *Haploa* caterpillars were found within a few weeks of each other. But that was before we found a *Haploa* hotspot: an unassuming fence railing which yielded seven *Haploa* caterpillars all crawling along the same stretch of newly constructed wooden fence at the same time. Well, much to our delight, this *Haploa* hotspot continues to be a hotbed for *Haploa* activity — nearly a dozen were counted (one pictured below) along the same wooden fence the same day as the two *Clemensia* larvae.
+Continuing with the "when it rains, it pours" theory, up until the latter part of last season no caterpillars of the *Haploa* genus had ever been recorded for the survey. This changed when three *Haploa* caterpillars were found within a few weeks of each other. And shortly after that, we found a *Haploa* hotspot: an unassuming fence railing which yielded seven *Haploa* caterpillars crawling along the same stretch of newly constructed wooden fence at the same time. Much to our delight, this *Haploa* hotspot continues to be a hotbed for *Haploa* activity — nearly a dozen were counted (one pictured below) along the same wooden fence the same day as the two *Clemensia* larvae.
 
 {% include figure image_path="/assets/images/posts/2026/haploa.jpg" alt="alt text" caption="<i>Haploa sp.</i> larva" %}
 
