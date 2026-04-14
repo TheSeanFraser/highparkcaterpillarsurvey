@@ -27,3 +27,8 @@ search: false
   border-bottom: 2px solid #f2f3f3; /* Optional: adds a nice underline */
   padding-bottom: 0.5em;
 }
+
+/* Increase footer font size */
+.page__footer {
+  font-size: $type-size-4;
+}
