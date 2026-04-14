@@ -19,3 +19,11 @@ search: false
 
 /* Highlight active navigation link in masthead */
 .masthead__menu-item .active { font-weight: bold; }
+
+/* Increase "Recent Posts" heading size */
+.archive__subtitle {
+  font-size: 1.6em; /* Default is usually around 1.25em */
+  margin-top: 2em;
+  border-bottom: 2px solid #f2f3f3; /* Optional: adds a nice underline */
+  padding-bottom: 0.5em;
+}
