@@ -6,25 +6,41 @@ header:
   image: /assets/images/events-header.jpg
   caption: "Titian Peale's Moth"
 ---
-## Public Events
+## Public Caterpillar Events
 
-### High Park Caterpillar Hunt - Toronto Entomologists' Association
-Saturday, May 30, 2026 1 pm to 3 pm. \
-(rain date: Sunday, May 31)
+### High Park Caterpillar Hunt
+Sat. May 30 (1:00-3:00 pm) - rain date: Sun. May 31
 
-Novices are welcome. This event is part of Global Butterfly Week. We are likely to see both butterfly caterpillars and moth caterpillars. As for species, who knows? That will be the surprise. Visit [www.ontarioinsects.org/fieldtrips/](https://www.ontarioinsects.org/fieldtrips/) for more information.
+Free to attend. Pre-registration required: [register here](www.ontarioinsects.org/fieldtrips). Suitable for all
+levels, from novice to seasoned naturalist. Survey members will be leading this walk on behalf
+of the Toronto Entomologists&#39; Association. We are sure to find a number of early season
+species.
 
-### High Park Moth Night - High Park Nature Centre
-A night between July 18-26, 2026 (during Moth Week).
 
-As part of the High Park Moth Night, the High Park Caterpillar Survey leads UV caterpillar walks through the night. Join us to see some of what we find during our sessions!
+### From Woolly Bears to Toadflax Brocades: Discovering the caterpillars of High Park
+Wed. June 10 (7:30-9:30 pm)
 
-Presentation, moth sheets, and caterpillar walks.
+This talk will introduce the audience to many of the fascinating caterpillars to be found in High
+Park. Pay-what-you-can (including a free option). Pre-registration required (link coming soon).
+
+
+### Moth Night in High Park
+July xx
+
+Free to attend. Caterpillar mini-walks will be conducted throughout the evening. Pre-registration
+is highly encouraged (link coming soon).
 
 <br>
 
-## Members Only Events
+## 2026 Members Only Events
 Through the year, we hold events and get-togethers for our members to share our curiosity about caterpillars and other aspects of the natural world.
-- Post-season Summary Get-together
-- "Toronto International Caterpillar Film Festival"
-- Moth Nights
+
+- Jan 25 - 2025 postseason wrap-up gathering
+- Feb 22 - Target species planning session
+- Mar 21 - 1st International *Caterpillar* Film Festival
+- May (tba) - How to photograph caterpillars (workshop)
+- May (tba) - 2026 survey season begins
+- July (tba) - Moth night
+- Aug (tba) - Moth night
+- Sept (tba) - Field trip outside High Park
+- Nov (tba) - 2026 postseason wrap-up gathering
