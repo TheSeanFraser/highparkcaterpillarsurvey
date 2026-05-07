@@ -2,6 +2,7 @@
 layout: single
 title: Events
 permalink: /events/
+sitemap: false
 header:
   image: /assets/images/events-header.jpg
   caption: "Titian Peale's Moth"
