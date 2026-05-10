@@ -14,16 +14,16 @@ header:
 
 *Owlet Caterpillars of Eastern North America* - Wagner, D. L., Schweitzer, D. F., Sullivan, J. B., & Reardon, R. C. (2011)
 
-*Caterpillars in the field and garden: A field guide to the butterfly caterpillars of North America* - Allen, T. J., Brock, J. P., & Glassberg, J. (2005)
+*Caterpillars in the Field and Garden: A Field Guide to the Butterfly Caterpillars of North America* - Allen, T. J., Brock, J. P., & Glassberg, J. (2005)
 
-*Caterpillars on the foliage of conifers in the northeastern United States* - Maier, C. T.,Lemmon, C. R.,Fengler, J. M.,Schweitzer, D. F., &Reardon, R. C. (2011)  USDA Forest Service. [PDF available here](https://www.fs.usda.gov/foresthealth/technology/pdfs/Caterpillars_FHTET-2011-07.pdf)
+*Caterpillars on the Foliage of Conifers in the Northeastern United States* - Maier, C. T.,Lemmon, C. R.,Fengler, J. M.,Schweitzer, D. F., &Reardon, R. C. (2011)  USDA Forest Service. [PDF available here](https://www.fs.usda.gov/foresthealth/technology/pdfs/Caterpillars_FHTET-2011-07.pdf)
 
-*Geometroid caterpillars of northeastern and Appalachian forests* - Wagner, D. L., Ferguson, D. C., McCabe, T. L., & Reardon, R. C. (2001). USDA Forest Service. [PDF available here](http://www.biodiversitylibrary.org/page/56248068#page/71/mode/1up)
+*Geometroid Caterpillars of Northeastern and Appalachian Forests* - Wagner, D. L., Ferguson, D. C., McCabe, T. L., & Reardon, R. C. (2001). USDA Forest Service. [PDF available here](http://www.biodiversitylibrary.org/page/56248068#page/71/mode/1up)
 
 
 **Other Books**
 
-*Bringing nature home: How you can sustain wildlife with native plants* - Tallamy, D. W. (2009)
+*Bringing Nature Home: How You Can Sustain Wildlife with Native Plants* - Tallamy, D. W. (2009)
 
 
 **Videos**
@@ -44,4 +44,4 @@ header:
 
 **Articles**
 
-*The little-known world of caterpillars: An entomologist races to find them before they disappear* - Kolbert, E. (2023, March 20). The New Yorker.  
+*The Little-known World of Caterpillars: An Entomologist Races to Find Them Before They Disappear* - Kolbert, E. (2023, March 13). The New Yorker. [Link here](https://orcdn.com/click?redirect=http%3A%2F%2Fwww.newyorker.com%2Fmagazine%2F2023%2F03%2F20%2Fthe-little-known-world-of-caterpillars&dID=1778299419701&hashId=efd17dbe6169e2b238c6a369e3635e2e501d8800b279e68ad78f5b84562b809283e05e&linkName=www.newyorker.com/magazine/2023/03/20/the-little-known-world-of-caterpillars)
