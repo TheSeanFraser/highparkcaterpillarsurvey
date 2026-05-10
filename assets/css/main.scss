@@ -5,7 +5,13 @@ search: false
 
 @charset "utf-8";
 
-$titian-red: #8c0000; // colour for headers
+
+
+// The color of the navigation links
+$masthead-link-color:        #8c0000; // Change to your preferred color
+// The color when hovering over the links
+$masthead-link-color--hover: #8c0000; // Change to your preferred hover color
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
