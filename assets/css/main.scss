@@ -5,6 +5,8 @@ search: false
 
 @charset "utf-8";
 
+$titian-red: #8c0000; // colour for headers
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -31,4 +33,34 @@ search: false
 /* Increase footer font size */
 .page__footer {
   font-size: $type-size-4;
+}
+
+h1 {
+  color: #8c0000;
+}
+h2 {
+  color: #8c0000;
+}
+h3 {
+  color: #8c0000;
+}
+
+/* Overrides the deep nesting in _page.scss */
+.page .page__inner-wrapper .page__content .page__title {
+  color: #8c0000 !important;
+}
+
+/* 1. Targets the link when it's just sitting there */
+.page__title a {
+  color: #8c0000 !important; 
+}
+
+/* 2. Targets the link even after you have clicked it (visited) */
+.page__title a:visited {
+  color: #8c0000 !important;
+}
+
+/* 3. Targets the link when you hover over it */
+.page__title a:hover {
+  color: #8c0000 !important; 
 }
