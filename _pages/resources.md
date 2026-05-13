@@ -12,7 +12,7 @@ header:
 
 *Caterpillars of Eastern North America: A Guide to Identification and Natural History* - Wagner, D. L. (2005)
 
-*Owlet Caterpillars of Eastern North America* - Wagner, D. L., Schweitzer, D. F., Sullivan, J. B., & Reardon, R. C. (2012)
+*Owlet Caterpillars of Eastern North America* - Wagner, D. L., Schweitzer, D. F., Sullivan, J. B., & Reardon, R. C. (2011)
 
 *Caterpillars in the Field and Garden: A Field Guide to the Butterfly Caterpillars of North America* - Allen, T. J., Brock, J. P., & Glassberg, J. (2005)
 
