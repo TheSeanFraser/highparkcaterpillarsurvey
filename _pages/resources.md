@@ -12,11 +12,11 @@ header:
 
 *Caterpillars of Eastern North America: A Guide to Identification and Natural History* - Wagner, D. L. (2005)
 
-*Owlet Caterpillars of Eastern North America* - Wagner, D. L., Schweitzer, D. F., Sullivan, J. B., & Reardon, R. C. (2011)
+*Owlet Caterpillars of Eastern North America* - Wagner, D. L., Schweitzer, D. F., Sullivan, J. B., & Reardon, R. C. (2012)
 
 *Caterpillars in the Field and Garden: A Field Guide to the Butterfly Caterpillars of North America* - Allen, T. J., Brock, J. P., & Glassberg, J. (2005)
 
-*Caterpillars on the Foliage of Conifers in the Northeastern United States* - Maier, C. T.,Lemmon, C. R.,Fengler, J. M.,Schweitzer, D. F., &Reardon, R. C. (2011)  USDA Forest Service. [PDF available here](https://www.fs.usda.gov/foresthealth/technology/pdfs/Caterpillars_FHTET-2011-07.pdf)
+*Caterpillars on the Foliage of Conifers in the Northeastern United States* - Maier, C. T., Lemmon, C. R., Fengler, J. M., Schweitzer, D. F., & Reardon, R. C. (2011)  USDA Forest Service. [PDF available here](https://www.fs.usda.gov/foresthealth/technology/pdfs/Caterpillars_FHTET-2011-07.pdf)
 
 *Geometroid Caterpillars of Northeastern and Appalachian Forests* - Wagner, D. L., Ferguson, D. C., McCabe, T. L., & Reardon, R. C. (2001). USDA Forest Service. [PDF available here](http://www.biodiversitylibrary.org/page/56248068#page/71/mode/1up)
 
