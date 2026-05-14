@@ -23,7 +23,7 @@ Reasons to join:
 
 {% include figure image_path="/assets/images/uv-caterpillars.jpg" alt="this is a placeholder image" caption="Oregon Cycnia caterpillars fluorescing on a dogbane plant." %}
 
-[Check out this post](/posts/Night-Session-Routine/) for a sense of how a night session typically goes.
+[Check out this post](/posts/Night-Session-Routine) for a sense of how a night session typically goes.
 
 ## Session Times
 The season runs from May to October. 
