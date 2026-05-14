@@ -28,7 +28,7 @@ header:
 
 **Videos**
 
-[The Extraordinary Caterpillar](www.youtube.com/watch?v=Ql1zrSUFuvM\&t=2922s) (58 min.)
+[The Extraordinary Caterpillar](https://youtube.com/watch?si=z08Ni9xUiSCJ4lmj&v=Ql1zrSUFuvM&feature=youtu.be) (58 min.)
 
 
 **Websites**
