@@ -33,7 +33,7 @@ is highly encouraged (link coming soon).
 <br>
 
 ## 2026 Members Only Events
-Through the year, we hold events and get-togethers for our members to share our curiosity about caterpillars and other aspects of the natural world.
+Throughout the year, we hold events and get-togethers for our members to share our curiosity about caterpillars and other aspects of the natural world.
 
 - Jan 25 - 2025 postseason wrap-up gathering
 - Feb 22 - Target species planning session
