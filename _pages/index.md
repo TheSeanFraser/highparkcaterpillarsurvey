@@ -11,7 +11,7 @@ excerpt: "Caterpillars are a critical, and often overlooked, part of many ecosys
 permalink: /
 ---
 
-# Number of species seen to date: 255
+# Number of species seen to date: 286
 
 Founded by long-time naturalist Richard Aaron, the survey is currently comprised of over a dozen enthusiastic volunteers, ranging widely in age and background. New volunteers are always welcome — no experience necessary. [You can find more details here.](/volunteer/)
 
