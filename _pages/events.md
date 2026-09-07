@@ -38,8 +38,9 @@ Throughout the year, we hold events and get-togethers for our members to share o
 - Jan 25 - 2025 postseason wrap-up gathering
 - Feb 22 - Target species planning session
 - Mar 21 - 1st International *Caterpillar* Film Festival
-- May (tba) - 2026 survey season begins
-- July (tba) - Moth night
-- Aug (tba) - Moth night
-- Sept (tba) - Field trip outside High Park
+- May 20 - 2026 survey season begins
+- July 13 - Moth night
+- Aug 17 - Moth night
+- Sept 12 - Field trip to Tommy Thompson Park
+- Sept 14 - Moth night
 - Nov (tba) - 2026 postseason wrap-up gathering
