@@ -9,7 +9,7 @@ hidden: true # Remove this line to show on the website.
   ![](/assets/images/posts/2026/field-trip.jpg)
 
 
-On Saturday, Sept 12, 2026, five members of the High Park Caterpillar Survey went to Tommy Thompson Park for the day to search for caterpillars that are uncommon or not known to be present in High Park. This was the survey's first-ever field trip outside the borders of High Park.
+On Saturday, Sept 12, 2026, five survey members spent the day in Tommy Thompson Park in search of caterpillars that are uncommon or not known to be present in High Park. This was the survey’s first-ever field trip outside the borders of High Park.
 
 
 The morning started off with some familiar species that we see regularly in High Park: Hickory Tussock Moths, Poison Ivy Leafminer Moths, and Fall Webworm Moths. We soon came across one of our target species, the Finned-willow Prominent (shown below), still within sight of the visitor pavilion! Along this short stretch of road, we ended up finding five of this attractive species.
@@ -26,7 +26,7 @@ The next highlight of the day was a species we only occasionally see in High Par
   <small>*The Asteroid*</small>
 </div>
 
-Just down the road from The Asteroids, we found our second target species for the day - a small Smeared Dagger resting on a dogwood leaf. Since it was an earlier instar, we didn't get to see the more impressive patterning of the more mature larvae - but it was still a fun sighting nonetheless.
+Just down the road from The Asteroids, we found our second target species for the day - a small Smeared Dagger resting on a dogwood leaf. Since it was an earlier instar, we didn't get to see the more impressive patterning of the more mature larvae - but it was still a worthwhile sighting.
 
 <div style="text-align: center;" markdown="1">
   ![](/assets/images/posts/2026/smeared-dagger.jpg)
@@ -40,7 +40,7 @@ Upon coming to a clearing along an overgrown path, one of our group spotted a Mo
   <small>*Question Mark*</small>
 </div>
 
-While most of the group was observing and photographing the Question Marks, another member of our team spotted our last target species for the day: a pair of Spotted Datanas! In the excitement of the discovery, we almost didn’t notice a larger group of about twenty individuals just a few small branches away. This species is known for its gregarious gatherings, which we were all hoping to see.
+While most of the group was observing and photographing the Question Marks, another member of our team spotted our last target species for the day: a pair of Spotted Datanas! In the excitement of the discovery, we almost didn’t notice a larger group of about twenty individuals just a few small branches away. One of the distinguishing features of this species is a pair of dark, spiny "horns" on the top of its head, but one of the Question Marks we found was lacking these "horns" for some reason. Fortunately, there were other features that helped us to identify it.
 
 <div style="text-align: center;" markdown="1">
   ![](/assets/images/posts/2026/spotted-datana.jpg)
