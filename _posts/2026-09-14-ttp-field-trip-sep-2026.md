@@ -9,8 +9,7 @@ hidden: true # Remove this line to show on the website.
   ![](/assets/images/posts/2026/field-trip.jpg)
 
 
-On Saturday, Sept 12, 2026, five survey members spent the day in Tommy Thompson Park in search of caterpillars that are uncommon or not known to be present in High Park. This was the survey’s first-ever field trip outside the borders of High Park.
-
+On Saturday, Sept 12, 2026, five survey members spent the day in Tommy Thompson Park in search of caterpillars that are uncommon or not known to be present in High Park. This was the survey’s first-ever field trip outside the borders of High Park and was a resounding success - with multiple new species being seen by everyone and even a first record for Toronto!
 
 The morning started off with some familiar species that we see regularly in High Park: Hickory Tussock Moths, Poison Ivy Leafminer Moths, and Fall Webworm Moths. We soon came across one of our target species, the Finned-willow Prominent (shown below), still within sight of the visitor pavilion! Along this short stretch of road, we ended up finding five of this attractive species.
 
@@ -33,14 +32,15 @@ Just down the road from The Asteroids, we found our second target species for th
   <small>*Smeared Dagger*</small>
 </div>
 
-Upon coming to a clearing along an overgrown path, one of our group spotted a Mourning Cloak caterpillar about to pupate on a large stone. A Siberian elm (a host plant for the species) was just behind the rock, so we checked there for more - only to find a few caterpillars of a different species: two Question Marks! This species is known for having what look like “horns” on the top of their heads, but one was missing this feature.
+Leaving the main road, we made our way through a meadow and onto a trail which became increasingly overgrown. We soon we came to a large clearing, where one of our group spotted a Mourning Cloak caterpillar about to pupate on a large rock. A Siberian elm (a host plant for this species) was on the other side of the rock and likely where this Mourning Cloak larva had been feeding, so we checked the tree for more. But instead, we found two caterpillars of a different species - the Question Mark! Not only was this another species for the day's growing list, but it was a "lifer" for all but one of us. One of the distinguishing features of the Question Mark larva is a pair of dark, spiny "horns" on the top of its head. But for whatever reason, one of our caterpillars was lacking these "horns". Fortunately, there are other distinguishing features that help identify it.
+
 
 <div style="text-align: center;" markdown="1">
   ![](/assets/images/posts/2026/question-mark.jpg)
   <small>*Question Mark*</small>
 </div>
 
-While most of the group was observing and photographing the Question Marks, another member of our team spotted our last target species for the day: a pair of Spotted Datanas! In the excitement of the discovery, we almost didn’t notice a larger group of about twenty individuals just a few small branches away. One of the distinguishing features of this species is a pair of dark, spiny "horns" on the top of its head, but one of the Question Marks we found was lacking these "horns" for some reason. Fortunately, there were other features that helped us to identify it.
+While most of the group was observing and photographing the Question Marks, another member of our team spotted our last target species for the day: a pair of Spotted Datanas! In the excitement of the discovery, we almost didn’t notice a larger group of about twenty individuals just a few small branches away. This species is known for its gregarious gatherings, which we were all hoping to see.
 
 <div style="text-align: center;" markdown="1">
   ![](/assets/images/posts/2026/spotted-datana.jpg)
