@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: null
 title: Checklist
 permalink: /checklist/
 sitemap: false
@@ -9,19 +9,20 @@ sitemap: false
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="color-scheme" content="dark">
 <title>Caterpillar Checklist</title>
 <style>
   :root{
-    --bg: #ffffff;
-    --text: #1a1a1a;
-    --text-soft: #444444;
-    --muted: #767676;
-    --border: #d9d9d9;
-    --border-strong: #1a1a1a;
-    --accent: #2f6f4f;
-    --accent-soft: #eaf3ee;
-    --danger: #b3432b;
-    --focus: #2f6fa6;
+    --bg: #000000;
+    --text: #ffffff;
+    --text-soft: #d6d6d6;
+    --muted: #9b9b9b;
+    --border: #2e2e2e;
+    --border-strong: #707070;
+    --accent: #3fa570;
+    --accent-soft: #12301f;
+    --danger: #e07a5f;
+    --focus: #6fb1e8;
     --radius: 4px;
   }
 
@@ -155,6 +156,31 @@ sitemap: false
   }
   .dd-custom:hover, .dd-custom.active{background:var(--accent-soft);}
   .dd-empty{padding:12px; font-size:13px; color:var(--muted);}
+
+  /* ---------- Session notes ---------- */
+  .notes-wrap{
+    padding:0 16px 0 16px;
+  }
+  .notes-label{
+    display:block;
+    font-size:11px;
+    color:var(--muted);
+    margin:12px 0 4px 0;
+  }
+  #notes{
+    width:100%;
+    padding:10px 12px;
+    font-size:14px;
+    line-height:1.45;
+    background:var(--bg);
+    color:var(--text);
+    border:1px solid var(--border);
+    border-radius:var(--radius);
+    resize:vertical;
+    min-height:44px;
+  }
+  #notes:focus{outline:none; border-color:var(--focus); box-shadow:0 0 0 2px rgba(111,177,232,0.15);}
+  #notes::placeholder{color:var(--muted);}
 
   /* ---------- Summary strip ---------- */
   .summary{
@@ -322,7 +348,8 @@ sitemap: false
     left:50%;
     bottom:64px;
     transform:translateX(-50%) translateY(10px);
-    background:var(--text);
+    background:#1f1f1f;
+    border:1px solid #3a3a3a;
     color:#ffffff;
     font-size:13px;
     padding:9px 16px;
@@ -357,96 +384,6 @@ sitemap: false
   }
 
   :focus-visible{outline:2px solid var(--focus); outline-offset:1px;}
-
-  /* ---------- Export modal ---------- */
-  .modal-overlay{
-    position:fixed;
-    inset:0;
-    background:rgba(0,0,0,0.45);
-    display:flex;
-    align-items:center;
-    justify-content:center;
-    padding:16px;
-    z-index:100;
-  }
-  .modal-overlay[hidden]{display:none;}
-  .modal{
-    background:var(--bg);
-    border-radius:6px;
-    max-width:640px;
-    width:100%;
-    max-height:85vh;
-    display:flex;
-    flex-direction:column;
-    overflow:hidden;
-    box-shadow:0 12px 32px rgba(0,0,0,0.25);
-  }
-  .modal-head{
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    padding:16px 16px 0 16px;
-  }
-  .modal-head h2{
-    font-size:17px;
-    margin:0;
-    font-weight:600;
-  }
-  .modal-close{
-    background:none;
-    border:none;
-    font-size:22px;
-    line-height:1;
-    color:var(--muted);
-    padding:4px 8px;
-  }
-  .modal-close:hover{color:var(--text);}
-  .modal-hint{
-    font-size:12.5px;
-    color:var(--muted);
-    margin:6px 16px 12px 16px;
-  }
-  .modal-table-wrap{
-    overflow:auto;
-    padding:0 16px;
-    flex:1;
-  }
-  #exportTable{
-    width:100%;
-    border-collapse:collapse;
-    font-size:13.5px;
-  }
-  #exportTable th, #exportTable td{
-    text-align:left;
-    padding:7px 10px;
-    border:1px solid var(--border);
-  }
-  #exportTable th{
-    background:var(--accent-soft);
-    font-weight:600;
-    position:sticky;
-    top:0;
-  }
-  #exportTable td:first-child{text-align:right; width:1%; white-space:nowrap;}
-  #exportTable td:nth-child(3){font-style:italic; color:var(--text-soft);}
-  .modal-actions{
-    display:flex;
-    justify-content:flex-end;
-    gap:10px;
-    padding:14px 16px;
-    border-top:1px solid var(--border);
-  }
-  .modal-actions button{
-    border:1px solid var(--border-strong);
-    background:var(--bg);
-    color:var(--text);
-    padding:8px 14px;
-    border-radius:var(--radius);
-    font-size:13px;
-  }
-  #copyTableBtn{background:var(--accent); color:#fff; border-color:var(--accent);}
-  #copyTableBtn:hover{opacity:0.9;}
-  #exportCloseBtn2:hover{background:var(--border);}
 </style>
 </head>
 <body>
@@ -460,10 +397,15 @@ sitemap: false
       </div>
     </div>
     <div class="search-wrap">
-      <input type="text" id="search" placeholder="Search species to add…" autocomplete="off" spellcheck="false">
+      <input type="text" id="search" placeholder="Search species to add&hellip;" autocomplete="off" spellcheck="false">
       <div class="dropdown" id="dropdown" hidden></div>
     </div>
   </header>
+
+  <div class="notes-wrap">
+    <label class="notes-label" for="notes">Session notes</label>
+    <textarea id="notes" rows="3" placeholder="General comments and finds for this session &mdash; included in the export"></textarea>
+  </div>
 
   <div class="summary" id="summary"></div>
 
@@ -475,7 +417,7 @@ sitemap: false
     <div class="footer-row">
       <span id="footNote">Tap a species to add it, then tap its count each time you spot another.</span>
       <div class="foot-actions">
-        <button id="exportBtn">Export table</button>
+        <button id="exportBtn">Copy table</button>
       </div>
     </div>
     <p class="credit">Moth list: David Beadle and Alan Macnaughton, <em>TEA Checklist of Ontario Moths</em> (13 September 2026)</p>
@@ -483,28 +425,6 @@ sitemap: false
 </div>
 
 <div class="toast" id="toast"></div>
-
-<div class="modal-overlay" id="exportOverlay" hidden>
-  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="exportTitle">
-    <div class="modal-head">
-      <h2 id="exportTitle">Export checklist</h2>
-      <button class="modal-close" id="exportCloseBtn" aria-label="Close">×</button>
-    </div>
-    <p class="modal-hint">Select all and copy, or use the button below — then paste into a spreadsheet or document.</p>
-    <div class="modal-table-wrap">
-      <table id="exportTable">
-        <thead>
-          <tr><th>Qty</th><th>Common name</th><th>Scientific name</th></tr>
-        </thead>
-        <tbody id="exportTableBody"></tbody>
-      </table>
-    </div>
-    <div class="modal-actions">
-      <button id="copyTableBtn">Copy table</button>
-      <button id="exportCloseBtn2">Close</button>
-    </div>
-  </div>
-</div>
 
 <script>
 /* ---- Reference data: Ontario moth checklist (scientific name, common name, family) ---- */
@@ -517,6 +437,7 @@ let session = loadSession();
 function defaultSession(){
   return {
     date: new Date().toISOString().slice(0,10),
+    notes: '',
     entries: [] // {id, common, sci, fam, count, custom}
   };
 }
@@ -546,6 +467,13 @@ const dateLabel = document.getElementById('dateLabel');
 const newSessionBtn = document.getElementById('newSessionBtn');
 const exportBtn = document.getElementById('exportBtn');
 const toastEl = document.getElementById('toast');
+const notesEl = document.getElementById('notes');
+
+notesEl.value = session.notes || '';
+notesEl.addEventListener('input', () => {
+  session.notes = notesEl.value;
+  saveSession();
+});
 
 dateLabel.textContent = formatDate(session.date);
 
@@ -673,7 +601,7 @@ function addSpecies(m){
   let entry = findEntry(m.sci, m.common || '', false);
   if(entry){
     entry.count += 1;
-    bumpToast(`${m.common || m.sci} · already on list, now ${entry.count}`);
+    bumpToast(`${m.common || m.sci} \u00B7 already on list, now ${entry.count}`);
   } else {
     entry = {
       id: 'sp_' + Date.now() + '_' + Math.random().toString(36).slice(2,7),
@@ -695,7 +623,7 @@ function addCustom(text){
   let entry = findEntry('', text, true);
   if(entry){
     entry.count += 1;
-    bumpToast(`${text} · already on list, now ${entry.count}`);
+    bumpToast(`${text} \u00B7 already on list, now ${entry.count}`);
   } else {
     entry = {
       id: 'cu_' + Date.now() + '_' + Math.random().toString(36).slice(2,7),
@@ -736,13 +664,12 @@ function incrementEntry(id, delta){
 
 function removeEntry(id){
   const entry = session.entries.find(e => e.id === id);
+  if(!entry) return;
+  if(!confirm(`Remove ${entry.common || entry.sci} from the list?`)) return;
   session.entries = session.entries.filter(e => e.id !== id);
   saveSession();
   renderList();
-  if(entry) bumpToast(`Removed ${entry.common || entry.sci}`, {
-    label: 'Undo',
-    action: () => { session.entries.push(entry); saveSession(); renderList(entry.id); }
-  });
+  bumpToast(`Removed ${entry.common || entry.sci}`);
 }
 
 /* ---- Rendering ---- */
@@ -752,8 +679,8 @@ function renderList(highlightId){
   if(session.entries.length === 0){
     listEl.innerHTML = `
       <div class="empty-state">
-        <span class="moth-mark">✦</span>
-        <p>Nothing logged yet. Search above for a species from the Ontario checklist, or add your own custom entry — like "unknown geometer on ash."</p>
+        <span class="moth-mark">&#10022;</span>
+        <p>Nothing logged yet. Search above for a species from the Ontario checklist, or add your own custom entry &mdash; like "unknown geometer on ash."</p>
       </div>`;
     updateSummary();
     return;
@@ -775,11 +702,11 @@ function renderList(highlightId){
         ${entry.fam ? `<div class="row-fam">${escapeHtml(entry.fam)}</div>` : ''}
       </div>
       <div class="counter">
-        <button class="ctr-btn ctr-minus" aria-label="Decrease count" data-id="${entry.id}" data-action="minus">−</button>
+        <button class="ctr-btn ctr-minus" aria-label="Decrease count" data-id="${entry.id}" data-action="minus">&minus;</button>
         <button class="ctr-count" data-id="${entry.id}" aria-label="Increase count, currently ${entry.count}">${entry.count}</button>
         <button class="ctr-btn ctr-plus" aria-label="Increase count" data-id="${entry.id}" data-action="plus">+</button>
       </div>
-      <button class="row-del" data-id="${entry.id}" aria-label="Remove ${escapeHtml(entry.common || entry.sci)}">×</button>
+      <button class="row-del" data-id="${entry.id}" aria-label="Remove ${escapeHtml(entry.common || entry.sci)}">&times;</button>
     `;
     listEl.appendChild(row);
   });
@@ -832,85 +759,82 @@ newSessionBtn.addEventListener('click', () => {
   if(session.entries.length && !confirm('Start a new session? This clears the current checklist.')) return;
   session = defaultSession();
   dateLabel.textContent = formatDate(session.date);
+  notesEl.value = '';
   saveSession();
   renderList();
 });
 
-const exportOverlay = document.getElementById('exportOverlay');
-const exportTableBody = document.getElementById('exportTableBody');
-const copyTableBtn = document.getElementById('copyTableBtn');
+const notesForExport = () => (session.notes || '').trim().replace(/\s*\n\s*/g, ' ');
 
 function sortedForExport(){
   return [...session.entries].sort((a, b) => {
-    const ah = (typeof a.h === 'number') ? a.h : Infinity;
-    const bh = (typeof b.h === 'number') ? b.h : Infinity;
-    if(ah !== bh) return ah - bh;
-    return (a.common || a.sci).localeCompare(b.common || b.sci);
+    return (a.common || a.sci).toLowerCase().localeCompare((b.common || b.sci).toLowerCase());
   });
 }
 
-function openExportModal(){
-  if(session.entries.length === 0){ bumpToast('Nothing to export yet'); return; }
-  const rows = sortedForExport();
-  exportTableBody.innerHTML = rows.map(e => `
-    <tr>
-      <td>${e.count}</td>
-      <td>${escapeHtml(e.common || e.sci)}</td>
-      <td>${escapeHtml(e.sci)}</td>
-    </tr>
-  `).join('');
-  exportOverlay.hidden = false;
-}
-
-function closeExportModal(){
-  exportOverlay.hidden = true;
-}
-
-exportBtn.addEventListener('click', openExportModal);
-document.getElementById('exportCloseBtn').addEventListener('click', closeExportModal);
-document.getElementById('exportCloseBtn2').addEventListener('click', closeExportModal);
-exportOverlay.addEventListener('click', (e) => { if(e.target === exportOverlay) closeExportModal(); });
-document.addEventListener('keydown', (e) => { if(e.key === 'Escape' && !exportOverlay.hidden) closeExportModal(); });
-
-copyTableBtn.addEventListener('click', async () => {
-  const rows = sortedForExport();
+function buildExportPlain(){
   const headerCells = ['Qty', 'Common name', 'Scientific name'];
-  const plain = [headerCells.join('\t')].concat(
-    rows.map(e => [e.count, e.common || e.sci, e.sci].join('\t'))
-  ).join('\n');
-  const html = '<table><thead><tr>' +
+  const lines = [];
+  const notes = notesForExport();
+  if(notes){
+    lines.push('Notes: ' + notes);
+    lines.push('');
+  }
+  lines.push(headerCells.join('\t'));
+  sortedForExport().forEach(e => lines.push([e.count, e.common || e.sci, e.sci].join('\t')));
+  return lines.join('\n');
+}
+
+function buildExportHtml(){
+  const headerCells = ['Qty', 'Common name', 'Scientific name'];
+  const notes = notesForExport();
+  let html = '';
+  if(notes){
+    html += '<p><b>Notes:</b> ' + escapeHtml(notes) + '</p>';
+  }
+  html += '<table><thead><tr>' +
     headerCells.map(h => `<th>${h}</th>`).join('') +
     '</tr></thead><tbody>' +
-    rows.map(e => `<tr><td>${e.count}</td><td>${escapeHtml(e.common || e.sci)}</td><td>${escapeHtml(e.sci)}</td></tr>`).join('') +
+    sortedForExport().map(e => `<tr><td>${e.count}</td><td>${escapeHtml(e.common || e.sci)}</td><td>${escapeHtml(e.sci)}</td></tr>`).join('') +
     '</tbody></table>';
+  return html;
+}
 
+async function copyExport(){
+  const notes = notesForExport();
+  if(session.entries.length === 0 && !notes){ bumpToast('Nothing to export yet'); return; }
+  const plain = buildExportPlain();
+  const html = buildExportHtml();
   try{
     if(navigator.clipboard && window.ClipboardItem){
-      const item = new ClipboardItem({
+      await navigator.clipboard.write([new ClipboardItem({
         'text/plain': new Blob([plain], {type:'text/plain'}),
         'text/html': new Blob([html], {type:'text/html'})
-      });
-      await navigator.clipboard.write([item]);
-      bumpToast('Table copied — paste into a spreadsheet or doc');
-    } else {
+      })]);
+      bumpToast('Table copied \u2014 paste into a spreadsheet or doc');
+    } else if(navigator.clipboard && navigator.clipboard.writeText){
       await navigator.clipboard.writeText(plain);
       bumpToast('Table copied as text');
+    } else {
+      throw new Error('Clipboard API unavailable');
     }
   } catch(err){
-    const range = document.createRange();
-    range.selectNode(document.getElementById('exportTable'));
-    const sel = window.getSelection();
-    sel.removeAllRanges();
-    sel.addRange(range);
-    try{
-      document.execCommand('copy');
-      bumpToast('Table copied — paste into a spreadsheet or doc');
-    } catch(e2){
-      bumpToast('Copy failed — select the table and copy manually');
-    }
-    sel.removeAllRanges();
+    const ta = document.createElement('textarea');
+    ta.value = plain;
+    ta.style.position = 'fixed';
+    ta.style.top = '0';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.focus();
+    ta.select();
+    let ok = false;
+    try{ ok = document.execCommand('copy'); }catch(e2){}
+    document.body.removeChild(ta);
+    bumpToast(ok ? 'Table copied \u2014 paste into a spreadsheet or doc' : 'Copy failed \u2014 please copy manually');
   }
-});
+}
+
+exportBtn.addEventListener('click', copyExport);
 
 /* ---- Init ---- */
 renderList();
