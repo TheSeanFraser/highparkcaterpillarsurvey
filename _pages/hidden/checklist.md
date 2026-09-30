@@ -405,7 +405,7 @@ sitemap: false
 
   <div class="notes-wrap">
     <label class="notes-label" for="notes">Session notes</label>
-    <textarea id="notes" rows="3" placeholder="General comments and finds for this session &mdash; included in the export"></textarea>
+    <textarea id="notes" rows="3" placeholder="General comments for this session &mdash; included in the export."></textarea>
   </div>
 
   <div class="summary" id="summary"></div>
