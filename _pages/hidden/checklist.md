@@ -391,6 +391,7 @@ sitemap: false
   <header class="top">
     <div class="title-row">
       <!-- <h1>Field <em>Checklist</em></h1> -->
+      <h1>iCat</h1>
       <div class="session-meta">
         <span id="dateLabel"></span>
         <button class="new-session-btn" id="newSessionBtn" title="Start a fresh checklist">New session</button>
