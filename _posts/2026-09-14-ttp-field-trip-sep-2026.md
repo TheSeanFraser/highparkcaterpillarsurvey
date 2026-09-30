@@ -17,22 +17,21 @@ The morning started off with some familiar species that we see regularly in High
   <small>*Finned-willow Prominent*</small>
 </div>
 
-The next highlight of the day was a species we only occasionally see in High Park: The Asteroid. This racing-striped caterpillar is always a crowd-pleaser. While we didn’t find any late instar Asteroids, the three middle instars we saw, although not as boldly patterned, still provided us most of the experience.
+The next highlight of the day was a species we only occasionally see in High Park: The Asteroid. This racing-striped caterpillar is always a crowd-pleaser. While we didn’t find any late instar Asteroids, the three middle instars we saw, although not as boldly patterned, still provided us with most of the experience.
 
 <div style="text-align: center;" markdown="1">
   ![](/assets/images/posts/2026/asteroid.jpg)
   <small>*The Asteroid*</small>
 </div>
 
-Just down the road from The Asteroids, we found our second target species for the day - a small Smeared Dagger resting on a dogwood leaf. Since it was an earlier instar, it wasn't as strongly patterned as it would be in later instars, but it was still a good find.
+Just down the road from The Asteroids, we found our second target species for the day − a small Smeared Dagger resting on a dogwood leaf. Since it was an earlier instar, it wasn’t as strongly patterned as it would be in later instars, but it was still a good find.
 
 <div style="text-align: center;" markdown="1">
   ![](/assets/images/posts/2026/smeared-dagger.jpg)
   <small>*Smeared Dagger*</small>
 </div>
 
-Leaving the main road, we made our way through a meadow and onto a trail which became increasingly overgrown. We soon came to a large clearing, where one of our group spotted a Mourning Cloak caterpillar about to pupate on a large boulder. A Siberian elm (a host plant for this species) was on the other side of the boulder and likely where this Mourning Cloak larva had been feeding, so we checked the tree for more. But instead, we found two caterpillars of a different species - the Question Mark! Not only was this another species for the day’s growing list, but it was a “lifer” for all but one of us. One of the distinguishing features of the Question Mark larva is a pair of dark, spiny “horns” on the top of its head. But for whatever reason, one of our caterpillars was lacking these “horns”. Fortunately, there are other distinguishing features that help identify it.
-
+Leaving the main road, we made our way through a meadow and onto a trail which became increasingly overgrown. We soon came to a large clearing, where one of our group spotted a Mourning Cloak caterpillar about to pupate on a large boulder. A Siberian elm (a host plant for this species) was on the other side of the boulder and likely where this Mourning Cloak larva had been feeding, so we checked the tree for more. But instead, we found two caterpillars of a different species − the Question Mark! Not only was this another species for the day’s growing list, but it was a “lifer” for all but one of us. One of the distinguishing features of the Question Mark larva is a pair of dark, spiny “horns” on the top of its head. But for whatever reason, one of our caterpillars was lacking these “horns”. Fortunately, there were other distinguishing features that helped us identify it.
 
 <div style="text-align: center;" markdown="1">
   ![](/assets/images/posts/2026/question-mark.jpg)
@@ -72,6 +71,7 @@ Here is the complete list of species we found that day:
 - Polyphemus Moth
 - Purple Carrot-seed Moth
 - Question Mark
+- Red-spotted Admiral
 - Salt Marsh Moth
 - Scarce Straw Pearl
 - Silver-spotted Skipper
@@ -84,4 +84,3 @@ Here is the complete list of species we found that day:
 - Willow Leafcone Caterpillar Moth
 - Woolly Bear
 - Yellow Bear
-- Red-spotted Admiral
