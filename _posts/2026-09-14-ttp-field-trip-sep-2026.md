@@ -4,11 +4,12 @@ header:
 excerpt_separator: <!--more-->
 title: "Field Trip: Tommy Thompson Park"
 tags:
-hidden: true # Remove this line to show on the website.
 ---
   ![](/assets/images/posts/2026/field-trip.jpg)
 
 On Saturday, Sept 12, 2026, five survey members spent the day in Tommy Thompson Park in search of caterpillars that are uncommon or not known to be present in High Park. This was the survey’s first-ever field trip outside the borders of High Park and was a resounding success − everyone added multiple new species to their life lists with one of the species being the [first Toronto record](https://www.inaturalist.org/observations/400188816) for iNaturalist.
+
+<!--more-->
 
 The morning started off with some familiar species that we see regularly in High Park: Hickory Tussock Moths, Poison Ivy Leafminer Moths, and Fall Webworm Moths. We soon came across one of our target species, the Finned-willow Prominent (shown below), still within sight of the visitor pavilion! Along this short stretch of road, we ended up finding five of this unusual-looking species.
 
