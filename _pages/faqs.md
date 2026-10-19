@@ -34,4 +34,4 @@ The fluorescent light emitted when UV light is shined on caterpillars is weak an
 
 ## Is the park safe after dark?
 
-Over the years, we have held nearly 200 nighttime sessions and have never had any issues.
+Over the years, we have held over 200 nighttime sessions and have never had any issues.
