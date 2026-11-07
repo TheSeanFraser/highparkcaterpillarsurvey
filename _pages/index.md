@@ -1,6 +1,6 @@
 ---
 title: " "
-# title: "High Park Caterpillar Survey"
+# title: "High Park Caterpillar Survey "
 layout: home
 header:
   overlay_color: "#FFF000"
