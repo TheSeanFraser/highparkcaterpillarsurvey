@@ -464,7 +464,7 @@ sitemap: false
 
 <div class="toast" id="toast"></div>
 
-<script src="/checklist-species.js"></script>
+<script src="/https://highparkcaterpillars.ca/checklist/species-list.js"></script>
 <script>
 /* ---- Reference data: loaded from /checklist-species.js (defines MOTHS) ---- */
 const SPECIES = (typeof MOTHS !== 'undefined') ? MOTHS : [];
