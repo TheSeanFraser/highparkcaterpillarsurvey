@@ -466,7 +466,7 @@ sitemap: false
 
 <script src="/https://highparkcaterpillars.ca/checklist/species-list.js"></script>
 <script>
-/* ---- Reference data: loaded from /checklist-species.js (defines MOTHS) ---- */
+/* ---- Reference data: loaded from /checklist-species.js (defines MOTHS) ----  */
 const SPECIES = (typeof MOTHS !== 'undefined') ? MOTHS : [];
 if(!SPECIES.length) console.error('checklist-species.js did not load \u2014 species search will be empty.');
 /* ---- State ---- */
