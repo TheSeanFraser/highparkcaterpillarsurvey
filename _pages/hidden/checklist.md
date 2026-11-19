@@ -266,6 +266,28 @@ sitemap: false
     text-underline-offset:2px;
     -webkit-tap-highlight-color:transparent;
   }
+  .row-links{display:flex; gap:16px; flex-wrap:wrap;}
+  .row-count-edit{flex-basis:100%; display:flex; gap:8px; align-items:stretch;}
+  .row-count-edit input{
+    width:130px;
+    padding:9px 11px;
+    font-size:16px;
+    font-family:inherit;
+    background:var(--bg);
+    color:var(--text);
+    border:1px solid var(--border-strong);
+    border-radius:var(--radius);
+  }
+  .row-count-edit input:focus{outline:none; border-color:var(--focus); box-shadow:0 0 0 2px rgba(111,177,232,0.15);}
+  .cnt-set-btn{
+    background:var(--accent);
+    color:#ffffff;
+    border:1px solid var(--accent);
+    border-radius:var(--radius);
+    padding:0 18px;
+    font-size:14px;
+    font-weight:600;
+  }
   .row-cmt-text{
     flex-basis:100%;
     font-size:13px;
@@ -713,6 +735,31 @@ function removeEntry(id){
   bumpToast(`Removed ${entry.common || entry.sci}`);
 }
 
+/* ---- Set count (type a number instead of tapping +) ---- */
+const openCounts = new Set();
+
+function toggleCount(id){
+  if(!session.entries.some(e => e.id === id)) return;
+  if(openCounts.has(id)){
+    openCounts.delete(id);
+    renderList();
+  } else {
+    openCounts.add(id);
+    renderList();
+    const inp = listEl.querySelector(`.row-count-edit input[data-id="${id}"]`);
+    if(inp){ inp.focus(); inp.select(); }
+  }
+}
+
+function commitCount(id, value){
+  const entry = session.entries.find(e => e.id === id);
+  const n = parseInt(value, 10);
+  if(entry && !isNaN(n)) entry.count = Math.max(0, n);
+  openCounts.delete(id);
+  saveSession();
+  renderList();
+}
+
 /* ---- Per-species comments ---- */
 const openComments = new Set();
 
@@ -760,7 +807,10 @@ function renderList(highlightId){
         <div class="row-common">${entry.custom ? '<span class="custom-dot" title="custom entry"></span>' : ''}${escapeHtml(entry.common || entry.sci)}</div>
         ${entry.sci ? `<div class="row-sci">${escapeHtml(entry.sci)}</div>` : ''}
         ${entry.fam ? `<div class="row-fam">${escapeHtml(entry.fam)}</div>` : ''}
-        <button class="cmt-btn" data-id="${entry.id}" data-action="comment">${openComments.has(entry.id) ? 'Done' : (entry.comment ? 'Edit comment' : 'Add comment')}</button>
+        <div class="row-links">
+          <button class="cmt-btn" data-id="${entry.id}" data-action="comment">${openComments.has(entry.id) ? 'Done' : (entry.comment ? 'Edit comment' : 'Add comment')}</button>
+          <button class="cmt-btn" data-id="${entry.id}" data-action="setcount">${openCounts.has(entry.id) ? 'Cancel' : 'Set count'}</button>
+        </div>
       </div>
       <div class="counter">
         <button class="ctr-btn ctr-minus" aria-label="Decrease count" data-id="${entry.id}" data-action="minus">&minus;</button>
@@ -768,6 +818,9 @@ function renderList(highlightId){
         <button class="ctr-btn ctr-plus" aria-label="Increase count" data-id="${entry.id}" data-action="plus">+</button>
       </div>
       <button class="row-del" data-id="${entry.id}" aria-label="Remove ${escapeHtml(entry.common || entry.sci)}">&times;</button>
+      ${openCounts.has(entry.id)
+        ? `<div class="row-count-edit"><input type="text" inputmode="numeric" pattern="[0-9]*" maxlength="5" autocomplete="off" value="${entry.count}" data-id="${entry.id}" aria-label="Set count for ${escapeHtml(entry.common || entry.sci)}"><button class="cnt-set-btn" data-id="${entry.id}" data-action="commitcount">Set</button></div>`
+        : ''}
       ${openComments.has(entry.id)
         ? `<div class="row-cmt-edit"><textarea rows="2" data-id="${entry.id}" placeholder="Comment (host plant, location, stage&hellip;)" aria-label="Comment for ${escapeHtml(entry.common || entry.sci)}">${escapeHtml(entry.comment || '')}</textarea></div>`
         : (entry.comment ? `<div class="row-cmt-text">${escapeHtml(entry.comment)}</div>` : '')}
@@ -775,6 +828,22 @@ function renderList(highlightId){
     listEl.appendChild(row);
   });
 
+  listEl.querySelectorAll('[data-action="setcount"]').forEach(btn => {
+    btn.addEventListener('click', () => toggleCount(btn.dataset.id));
+  });
+  listEl.querySelectorAll('.row-count-edit input').forEach(inp => {
+    inp.addEventListener('input', () => {
+      const cleaned = inp.value.replace(/\D/g, '');
+      if(cleaned !== inp.value) inp.value = cleaned;
+    });
+    inp.addEventListener('keydown', (e) => { if(e.key === 'Enter'){ e.preventDefault(); commitCount(inp.dataset.id, inp.value); } });
+  });
+  listEl.querySelectorAll('[data-action="commitcount"]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const inp = btn.parentElement.querySelector('input');
+      commitCount(btn.dataset.id, inp ? inp.value : '');
+    });
+  });
   listEl.querySelectorAll('[data-action="comment"]').forEach(btn => {
     btn.addEventListener('click', () => toggleComment(btn.dataset.id));
   });
