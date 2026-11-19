@@ -786,7 +786,7 @@ function renderList(highlightId){
   if(session.entries.length === 0){
     listEl.innerHTML = `
       <div class="empty-state">
-        <span class="moth-mark">&#10022;</span>
+        <span class="moth-mark">🐛</span>
         <p>Nothing logged yet. Search above for a species from the Ontario checklist, or add your own custom entry &mdash; like "unknown geometer on ash."</p>
       </div>`;
     updateSummary();
